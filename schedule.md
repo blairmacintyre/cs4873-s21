@@ -28,7 +28,7 @@ Here you will find the readings for each day. Optional readings are in italics.
 ## Week 2
 #### Monday: Case Study: Therac-25
 - Quinn Chapter 8.5
-- Leveson, N. (1995). Medical devices: The therac-25. Appendix of: Safeware: System Safety and Computers. [[pdf](https://www.semanticscholar.org/paper/Medical-Devices%3A-the-Therac-25-Leveson/c8342b895886629af124eb29db6da68a5a370f99)] [https://app.perusall.com/courses/computing-society-and-professionalism/leveson-therac-25]
+- Leveson, N. (1995). Medical devices: The therac-25. Appendix of: Safeware: System Safety and Computers. [[pdf](https://www.semanticscholar.org/paper/Medical-Devices%3A-the-Therac-25-Leveson/c8342b895886629af124eb29db6da68a5a370f99)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/leveson-therac-25)]
 
 _Optional:_
 _Radiation Offers New Cures, and Ways to Do Harm, The New York Times_ [[link](http://www.nytimes.com/2010/01/24/health/24radiation.html)]
