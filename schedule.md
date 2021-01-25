@@ -32,7 +32,7 @@ Here you will find the readings for each day. Optional readings are in italics.
 
 _Optional:_
 - _Radiation Offers New Cures, and Ways to Do Harm, The New York Times_ [[link](http://www.nytimes.com/2010/01/24/health/24radiation.html)]
-- _Ganesh, T. (2014). Incident reporting and learning in radiation oncology: Need of the hour. Journal of Medical Physics/Association of Medical Physicists of India, 39(4), 203._ [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258726/)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/incident-reporting-and-learning-in-radiation-oncology-need-of-the-hour)]
+- _Ganesh, T. (2014). Incident reporting and learning in radiation oncology: Need of the hour. Journal of Medical Physics/Association of Medical Physicists of India, 39(4), 203._ [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258726/)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/incident-reporting-and-learning-in-radiation-oncology-need-of-the-hour)]
 
 #### Wednesday: Rhetoric & Writing Arguments
 Boylan, Browning, Burton, DeVries, Kurtz.  Let's Get Writing.  Chapter 2: Rhetorical Analysis.
