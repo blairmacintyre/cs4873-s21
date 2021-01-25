@@ -15,6 +15,7 @@
 **Head Teaching Assistant**: Jas Pyneni (jpyneni at gatech.edu)
 
 **Teaching Assistants (and their sections):**
+
 |Name (GT mail @ gatech.edu)|Discussion Section|
 |---:|---|
 |Stanley Cantrell (cantrell)|C09: Thursday 03:30 pm-05:25 pm<br>C14: Friday 12:30 pm-02:25 pm|
