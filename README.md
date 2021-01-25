@@ -1,4 +1,3 @@
-((CS4873C Schedule and Readings)) ((CS4873C Homeworks))
 
 **Lecture Time**: MW 9:30-10:20 in Teams
 - Many lectures will be asynchronous using pre-recorded lectures (will annotate the schedule with which class period will have synchronous content)
@@ -91,10 +90,13 @@ Please double space your assignments.
 ## ESL Accomodations
 If English is not your first language, you may request to not be graded on your writing for a particular individual assignment, including the term paper. This means you won't be penalized for bad writing, but you also won't get credit for good writing. To take advantage of this option, you must mark "ESL" (English as a Second Language) on the first page of your assignment/paper. This option is not available for group assignments. We still of course expect you to try to write in correct English, and will do our best to offer useful feedback on your writing.
 
-## Late Policy
-Assignments are due at midnight (11:59pm) on the day they are due. Late assignments will be penalized at a rate of 3 pts (one grade step: A becomes A-) per day. Assignments more than one week late will not be accepted.
+## Late Policy For Homeworks and Term Paper
+Assignments and the term paper are due at midnight (11:59pm) on the day they are due. Late assignments will be penalized at a rate of 3 pts (one grade step: A becomes A-) per day. Assignments more than one week late will not be accepted.
 
 Over the course of the term, you have three "late days" where work may be late with no explanation needed. Please mark 'use my late days' on the first page of your assignment/paper if want to use your late days when you make late submissions. Use your late days wisely as different submissions have different weights. If you have used your late days on a low-value assignment like a homework, you can't later transfer them to a different assignment.
+
+## Late Policy for Reading Commentaries
+Reading commentaries will not be accepted late, without a valid unanticipated excuse such as sickness.  Over the semester, your two lowest grades will be dropped.
 
 ## Honor Code
 This class abides by the Georgia Tech Honor Code. All assigned work is expected to be individual, except where explicitly written otherwise. You are encouraged to discuss the assignments with your classmates; however, what you hand in should be your own work.
