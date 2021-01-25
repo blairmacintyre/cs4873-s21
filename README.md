@@ -109,5 +109,15 @@ As a member of the Georgia Tech community, I am committed to creating a learning
 ## Mental Health
 As college students, it can be hard to prioritize your health, especially when you are pushed to prioritize academics, work, and extracurricular activities in the middle of an ongoing pandemic, COVID-19. The instructor and Head TA are happy to talk to you privately if you need mental health related accommodations. Please also refer to the various campus resources to access timely, professional help as well as self-care tips.
 
+---
 ## Acknowledgments
 Assignments and ideas on this syllabus build on those from everyone who has taught it in 2020, especially Amy Bruckman, Sauvik Das, Beki Grinter, and Munmun De Choudery.
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Material for CS4873C Spring 2021</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.blairmacintyre.me/cs3451-f19" property="cc:attributionName" rel="cc:attributionURL">Blair MacIntyre</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+The intent of choosing (CC BY-NC-SA 4.0) is to allow individuals and instructors at non-profit entities to use this content.  This includes not-for-profit schools (K-12 and post-secondary). For-profit entities (or people creating courses for those sites) may not use this content without permission (this includes, but is not limited to, for-profit schools and universities and commercial education sites such as Corsera, Udacity, LinkedIn Learning, and other similar sites).   
+
+---
+Banner image: "[Future Interfaces 2014](https://www.flickr.com/photos/67540051@N03/15251834103)" by [NYC Media Lab](https://www.flickr.com/photos/67540051@N03), licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
