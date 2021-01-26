@@ -8,8 +8,8 @@ NOTE: **Topics to be covered and the corresponding readings are subject to chang
 |:--|:----|:----|
 |_Two-day week_<br>Jan 14/15|*no classes*||
 |Week 1:<br>Jan 18|**(M)** *MLK Holiday*<br>**(W)** Intro & Overview (Slides [Purusal](https://app.perusall.com/courses/computing-society-and-professionalism/slides-1-intro) [pdf](https://www.dropbox.com/s/khhpef0r0b1ve3s/1-intro.pdf?dl=1), [Video](https://app.perusall.com/courses/computing-society-and-professionalism/recording-jan-20-intro))<br>[Discussion Guide](https://teams.microsoft.com/l/file/ABA8E6C5-7851-45C7-969F-FCF715D40C80?tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&fileType=docx&objectUrl=https%3A%2F%2Fgtvault.sharepoint.com%2Fsites%2FCS4873CSpring2021%2FClass%20Materials%2Fsection%20guides%2F1.%20Section%20Week%201.docx&baseUrl=https%3A%2F%2Fgtvault.sharepoint.com%2Fsites%2FCS4873CSpring2021&serviceName=teams&threadId=19:e88417d2d71642768e287a8e824d1734@thread.tacv2&groupId=0f1dc904-c0c5-46ec-8161-72422838f412)||
-|[Week 2](#week-2):<br>Jan 25|**(M)** Case Study: Therac-25 (Slides [Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/slides-2-therac) [pdf](https://www.dropbox.com/s/lm5gzieo8fjjixe/2-therac.pdf?dl=1), [Video](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-jan-25-therac-25))<br>**(W)** Rhetoric & Writing Arguments (Slides, Video)<br>Discussion Guide|||
-|[Week 3](#week-3):<br>Feb 1|**(M)** Do Artifacts Have Politics?<br>**(W)** Utilitarianism|HW: Therac and the 737-MAX|
+|[Week 2](#week-2):<br>Jan 25|**(M)** Case Study: Therac-25 (Slides [Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/slides-2-therac) [pdf](https://www.dropbox.com/s/lm5gzieo8fjjixe/2-therac.pdf?dl=1), [Video](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-jan-25-therac-25))<br>**(W)** Rhetoric & Writing Arguments (Slides [Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/slides-3-argument) [pdf](https://www.dropbox.com/s/66cka943qqaisbr/3-argument.pdf?dl=1), [Video](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-jan-27-rhetoric-and-argument))<br>[Discussion Guide](https://teams.microsoft.com/l/file/99B4C1FA-50C8-40FA-BF86-766A41CA0E5D?tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&fileType=docx&objectUrl=https%3A%2F%2Fgtvault.sharepoint.com%2Fsites%2FCS4873CSpring2021%2FClass%20Materials%2Fsection%20guides%2F2.%20Section%20Week%202.docx&baseUrl=https%3A%2F%2Fgtvault.sharepoint.com%2Fsites%2FCS4873CSpring2021&serviceName=teams&threadId=19:e88417d2d71642768e287a8e824d1734@thread.tacv2&groupId=0f1dc904-c0c5-46ec-8161-72422838f412)||||
+[Week 3](#week-3):<br>Feb 1|**(M)** Do Artifacts Have Politics?<br>**(W)** Utilitarianism|HW: Therac and the 737-MAX|
 |[Week 4](#week-4):<br>Feb 8|**(M)** Deontology<br>**(W)** Social Contract Theory|HW: Reflection on the politics of a technologic artifact|
 |[Week 5](#week-5):<br>Feb 15|**(M)** Stakeholder Analysis<br>**(W)** Virtue Ethics||
 |[Week 6](#week-6):<br>Feb 22|**(M)** Freedom of Speech and Networked Communications<br>**(W)** Regulating Online Speech|HW: Applying Ethical Frameworks to a Dilemma|
@@ -35,142 +35,173 @@ _Optional:_
 - _Ganesh, T. (2014). Incident reporting and learning in radiation oncology: Need of the hour. Journal of Medical Physics/Association of Medical Physicists of India, 39(4), 203._ [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258726/)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/incident-reporting-and-learning-in-radiation-oncology-need-of-the-hour)]
 
 #### Wednesday: Rhetoric & Writing Arguments
-Boylan, Browning, Burton, DeVries, Kurtz.  Let's Get Writing.  Chapter 2: Rhetorical Analysis.
-Purdue OWL (Online Writing Lab), Historical Perspectives on Argumentation.  Read the three sections: Classical, Toulmin, Rogerian.
-Week 3 
-Monday: Do Artifacts Have Politics?
-Winner, L. (1980). Do artifacts have politics?. Daedalus, 121-136. [pdf] [in Perusal on Canvas]
-Gillespie, T. (2014). The relevance of algorithms. Media technologies: Essays on communication, materiality, and society, 167, 167. [pdf] [in Perusal on Canvas]
-Optional:
-Planet Money episode 924: Stuck in China's Panopticon (time: 26:36) [link]
-Wednesday: Utilitarianism
-Quinn Chapter 2.1-2.3, 2.7-2.8
-Week 4
-Monday: Deontology
-Quinn Chapter 2.6
-Rachels, J (2011). The Elements of Moral Philosophy (7th Ed), Chapter 9: “Are there absolute moral rules?” [pdf] [in Perusal on Canvas]
-Wednesday: Social Contract Theory
-Quinn Chapter 2.9
-Doody, R (2015). Criticisms of Rawls' Principles of Justice. [on Perursal in Canvas]
-Week 5
-Monday: Stakeholder Analysis
-Quinn 2.12
-Gilligan, C. (1993). In a different voice. Harvard University Press, pp. 24-39 [on Perusal in Canvas]
-Wednesday: Virtue Ethics
-Quinn Chapter 2.10-2.11
-Hursthouse, Rosalind and Pettigrove, Glen, "Virtue Ethics", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.) [link]
+- Boylan, Browning, Burton, DeVries, Kurtz.  Let's Get Writing.  [Chapter 2: Rhetorical Analysis](https://vwcceng111.pressbooks.com/chapter/chapter-2-rhetorical-analysis/).
+- Purdue OWL (Online Writing Lab), Historical Perspectives on Argumentation.  Read the three sections: [Classical, Toulmin, Rogerian](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/classical_argument.html).
 
-Still tentative below this line
+## Week 3 
+#### Monday: Do Artifacts Have Politics?
+- Winner, L. (1980). Do artifacts have politics?. Daedalus, 121-136. [[pdf](https://www.jstor.org/stable/pdf/20024652.pdf?casa_token=t3nELTvVlrcAAAAA:PPXcneMC9AiqH9e3tWdTsp7ALDRwfjOBlw7XaYh_eIEBjFnX7uhwNwrQNzJ7427N-wJ68ApbfmX5LCcFuuz3GU2gUrloEWC6bc40L_IeZBFpDUXhOxjT)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/do-artifacts-have-politics-944773641)]
+- Gillespie, T. (2014). The relevance of algorithms. Media technologies: Essays on communication, materiality, and society, 167, 167. [[pdf](http://www.intgovforum.org/multilingual/sites/default/files/webform/the_relevance_of_algorithms_-_tarleton_gillespie.pdf)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/the-relevance-of-algorithms)]
 
-Week 6
-Monday: Freedom of Speech and Networked Communications
-Quinn Chapter (7th: 3.2, 3.5-3.8; 8th: 3.2, 3.6-3.9)  skim the rest of the chapter
-Warf, B. (2011). Geographies of global Internet censorship. GeoJournal, 76(1), 1-23. [pdf]
-Wednesday: Regulating Online Speech
-Banks, J. (2010). Regulating hate speech online. International Review of Law, Computers & Technology, 24(3), 233-239. [pdf]
-Nott, L (2019) Does the First Amendment Protect Speech Made By Artificial Intelligence? Freedom Forum Institute [link]
-Optional
-Chancellor, S., Pater, J. A., Clear, T., Gilbert, E., & De Choudhury, M. (2016, February). #thyghgapp: Instagram content moderation and lexical variation in pro-eating disorder communities. In Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (pp. 1201-1213). ACM. [pdf]
-Reddit bans 'Fat People Hate' and other subreddits under new harassment rules, The Verge [link]
-Week 7
-Monday: Intellectual Property
-Quinn Chapter 4.1-4.6
-Wednesday: Software as IP
-Quinn Chapter 4.7-4.10
-Week 8
-Monday: Privacy
-Quinn Chapter 5
-Optional Readings (some will likely become required)
-Understanding the General Data Protection Regulation: A primer for global publishers
-Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [Perusal on Canvas]
-Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [pdf]
-O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [pdf] [Perusal on Canvas]
-Zuckerberg: I know that people don't want privacy, CNet [link] [Perusal on Canvas]
-Ohm, P. (2009). Broken promises of privacy: Responding to the surprising failure of anonymization. UCLA l. Rev., 57, 1701. [pdf][Perusal on Canvas]
- "Anonymized" data really isn't and here’s why not, Ars Technica [link] [Perusal on Canvas]
-The Solace of Oblivion: In Europe, the right to be forgotten trumps the Internet, The New Yorker [link] [Perusal on Canvas]
-Google wins landmark right to be forgotten case, BBC [link]
-Wednesday: Privacy and the Government
-Quinn Chapter 6 (except 6.6)
-Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [pdf] [Perusal on Canvas]
-The NSA's Secret Role in the US Assassination Program, The Intercept [link] [Perusal on Canvas]
-Week 9
-Surveillance / USA Patriot Act
-Quinn Chapter 6.6
-Wikipedia articles: "Brandon Mayfield", "Summary of important points about the USA Patriot Act" 
-Wikipedia and other articles to skim: The Foreign Intelligence Surveillance Act (FISA), FISA Amendments Act, The USA Patriot Act, National Security Letters, Don't Renew Section 215 Indefinitely by EFF
-Optional:
-United States of Secrets (movie, 3 hours)
-EFF's NSA Spying Timeline
-Asinari, M. V. P., & Poullet, Y. (2004). The airline passenger data disclosure case and the EU-US debate. Computer Law & Security Review, 20(2), 98-116. [pdf] [Perusal on Canvas]
-Engineering the public: Big data, surveillance and computational politics
-Wednesday: Privacy and Biological Data
-The Golden State Killer Is Tracked Through a Thicket of DNA
-Your DNA Profile is Private? A Florida Judge Just Said Otherwise
-More Than Just Privacy: Using Contextual Integrity to Evaluate the Long-Term Risks from COVID-19 Surveillance Technologies by Jessica Vitak and Michael Zimmer
-Facial recognition: is the technology taking away your identity?
-Viewpoint: 'Have You Thought About . . .': Talking About Ethical Implications of Research by Amy Bruckman
-Week 10
-Monday: Professional Ethics
-Quinn Chapter 9
-ACM Code of Conduct
-Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [pdf]
-Week 11
-Monday:  Network Neutrality
-Point/Counterpoint: Network Neutrality Nuances
-What Everyone Gets Wrong in the Debate Over Net Neutrality
-Net Neutrality: How Recent Developments Could Affect Content Companies and Other IP-Intensive Businesses by Benjamin Hodges and Melodie Virtue
-Optional:
-It's digital colonialism': how Facebook's free internet service has failed its users by Olivia Solon
-Archive of articles on net neutrality by Ars Technica
-Archive of articles on net neutrality by The Verge
-Wednesday: Race in Computing
-What's the difference between race and ethnicity? by Emma Bryce, Live Science
-Does Technology Have Race? by David Hankerson et. al.
-Crypto for the people (2:04 - 49:43)
-Nextdoor has a racism problem, and here’s how it’s trying to fix it by AJ Dellinger
-Optional:
-New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys
-Week 12
-Monday:  Work and Wealth
-Rotman, D. (2013). How technology is destroying jobs. Technology Review, 16(4), 28-35. [pdf]
-Five ways work will change in the future
-Optional
-Imagine Discovering That Your Teaching Assistant Really Is a Robot, The Wall Street Journal [link]
-Goldhahn, J., Rampton, V., & Spinas, G. A. (2018). Could artificial intelligence make doctors obsolete?. Bmj, 363, k4563. [pdf]
-AI Will Change Radiology, but It Won’t Replace Radiologists, Harvard Business Review [link]
-The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [link]
-Wednesday: Technology and Pandemics
-Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [link]
-Servick, K. Cellphone tracking could help stem the spread of coronavirus. Is privacy the price? Science Magazine. [link]
-Optional
-How Surveillance Could Save Lives Amid a Public Health Crisis, Wired [link]
-Brewster, T. Two Million Guinea Pigs And Counting: The Remarkable Rise Of Self-Monitoring In The Time Of Coronavirus, Forbes. [link]
-Raskar, R., Schunemann, I., Barbar, R., Vilcans, K., Gray, J., Vepakomma, P., Kapa, S. et al. "Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic." arXiv preprint arXiv:2003.08567 (2020). [pdf]
-Week 13
-Monday: Algorithmic Bias and Fairness
-The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity
-Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [link]
-Fairness: Types of Bias
-Optional
-Edelman, B., Luca, M., & Svirsky, D. (2017). Racial discrimination in the sharing economy: Evidence from a field experiment. American Economic Journal: Applied Economics, 9(2), 1-22. [pdf]
-Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). [pdf]
-When It Comes to Gorillas, Google Photos Remains Blind, Wired [link]
-Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination, Wired [link
-Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246. [pdf]
-Wednesday: Fake News and Deep Fakes
-The Agency (view in incognito mode to access)
-Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [pdf]
-Week 14
-Monday: Electronic Voting, Democracy and Computing
-EFF on Evoting
-Quinn 7.5, 8.2.1, 8.4.7
-Voting Machines at Risk: Where We Stand Today
-Optional
-Social bots distort the 2016 US Presidential election online discussion
-Wednesday: TBA
+_Optional:_
+- Planet Money episode 924: Stuck in China's Panopticon (time: 26:36) [[link](https://www.npr.org/2019/07/05/738949320/episode-924-stuck-in-chinas-panopticon)]
 
-Week 15
-Monday: Envisioning the Singularities Ahead
-Wolter Pieters. 2018. On Security Singularities. In Proceedings of the New Security Paradigms Workshop (NSPW '18). Association for Computing Machinery, New York, NY, USA, 80–88. DOI:https://doi.org/10.1145/3285002.3285008 [pdf]
-A. H. Eden et al. (eds.), Singularity Hypotheses, The Frontiers Collection, DOI: 10.1007/978-3-642-32560-1_1,  Springer-Verlag Berlin Heidelberg 2012 [pdf]
+#### Wednesday: Utilitarianism
+- Quinn Chapter 2.1-2.3, 2.7-2.8
+
+## Week 4
+#### Monday: Deontology
+- Quinn Chapter 2.6
+- Rachels, J (2011). The Elements of Moral Philosophy (7th Ed), Chapter 9: “Are there absolute moral rules?” [pdf] [in Perusal on Canvas]
+
+#### Wednesday: Social Contract Theory
+- Quinn Chapter 2.9
+- Doody, R (2015). Criticisms of Rawls' Principles of Justice. [on Perursal in Canvas]
+
+## Week 5
+#### Monday: Stakeholder Analysis
+- Quinn 2.12
+- Gilligan, C. (1993). In a different voice. Harvard University Press, pp. 24-39 [on Perusal in Canvas]
+
+#### Wednesday: Virtue Ethics
+- Quinn Chapter 2.10-2.11
+- Hursthouse, Rosalind and Pettigrove, Glen, "Virtue Ethics", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.) [link]
+
+**Still tentative below this line**
+
+## Week 6
+#### Monday: Freedom of Speech and Networked Communications
+- Quinn Chapter (7th: 3.2, 3.5-3.8; 8th: 3.2, 3.6-3.9)  skim the rest of the chapter
+- Warf, B. (2011). Geographies of global Internet censorship. GeoJournal, 76(1), 1-23. [pdf]
+
+#### Wednesday: Regulating Online Speech
+- Banks, J. (2010). Regulating hate speech online. International Review of Law, Computers & Technology, 24(3), 233-239. [pdf]
+- Nott, L (2019) Does the First Amendment Protect Speech Made By Artificial Intelligence? Freedom Forum Institute [link]
+
+_Optional_
+- Chancellor, S., Pater, J. A., Clear, T., Gilbert, E., & De Choudhury, M. (2016, February). #thyghgapp: Instagram content moderation and lexical variation in pro-eating disorder communities. In Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (pp. 1201-1213). ACM. [pdf]
+- Reddit bans 'Fat People Hate' and other subreddits under new harassment rules, The Verge [link]
+
+## Week 7
+#### Monday: Intellectual Property
+- Quinn Chapter 4.1-4.6
+#### Wednesday: Software as IP
+- Quinn Chapter 4.7-4.10
+
+## Week 8
+#### Monday: Privacy
+- Quinn Chapter 5
+
+_Optional Readings (some will likely become required)_
+- Understanding the General Data Protection Regulation: A primer for global publishers
+- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [Perusal on Canvas]
+- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [pdf]
+- O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [pdf] [Perusal on Canvas]
+- Zuckerberg: I know that people don't want privacy, CNet [link] [Perusal on Canvas]
+- Ohm, P. (2009). Broken promises of privacy: Responding to the surprising failure of anonymization. UCLA l. Rev., 57, 1701. [pdf][Perusal on Canvas]
+-  "Anonymized" data really isn't and here’s why not, Ars Technica [link] [Perusal on Canvas]
+- The Solace of Oblivion: In Europe, the right to be forgotten trumps the Internet, The New Yorker [link] [Perusal on Canvas]
+- Google wins landmark right to be forgotten case, BBC [link]
+
+#### Wednesday: Privacy and the Government
+- Quinn Chapter 6 (except 6.6)
+- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [pdf] [Perusal on Canvas]
+- The NSA's Secret Role in the US Assassination Program, The Intercept [link] [Perusal on Canvas]
+
+## Week 9
+- Surveillance / USA Patriot Act
+- Quinn Chapter 6.6
+- Wikipedia articles: "Brandon Mayfield", "Summary of important points about the USA Patriot Act" 
+- Wikipedia and other articles to skim: The Foreign Intelligence Surveillance Act (FISA), FISA Amendments Act, The USA Patriot Act, National Security Letters, Don't Renew Section 215 Indefinitely by EFF
+
+_Optional:_
+- United States of Secrets (movie, 3 hours)
+- EFF's NSA Spying Timeline
+- Asinari, M. V. P., & Poullet, Y. (2004). The airline passenger data disclosure case and the EU-US debate. Computer Law & Security Review, 20(2), 98-116. [pdf] [Perusal on Canvas]
+- Engineering the public: Big data, surveillance and computational politics
+
+#### Wednesday: Privacy and Biological Data
+- The Golden State Killer Is Tracked Through a Thicket of DNA
+- Your DNA Profile is Private? A Florida Judge Just Said Otherwise
+- More Than Just Privacy: Using Contextual Integrity to Evaluate the Long-Term Risks from COVID-19 Surveillance Technologies by Jessica Vitak and Michael Zimmer
+- Facial recognition: is the technology taking away your identity?
+- Viewpoint: 'Have You Thought About . . .': Talking About Ethical Implications of Research by Amy Bruckman
+
+## Week 10
+#### Monday: Professional Ethics
+- Quinn Chapter 9
+- ACM Code of Conduct
+- Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [pdf]
+
+## Week 11
+#### Monday:  Network Neutrality
+- Point/Counterpoint: Network Neutrality Nuances
+- What Everyone Gets Wrong in the Debate Over Net Neutrality
+- Net Neutrality: How Recent Developments Could Affect Content Companies and Other IP-Intensive Businesses by Benjamin Hodges and Melodie Virtue
+
+_Optional_:
+- It's digital colonialism': how Facebook's free internet service has failed its users by Olivia Solon
+- Archive of articles on net neutrality by Ars Technica
+- Archive of articles on net neutrality by The Verge
+
+#### Wednesday: Race in Computing
+- What's the difference between race and ethnicity? by Emma Bryce, Live Science
+- Does Technology Have Race? by David Hankerson et. al.
+- Crypto for the people (2:04 - 49:43)
+- Nextdoor has a racism problem, and here’s how it’s trying to fix it by AJ Dellinger
+
+_Optional_:
+- New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys
+
+## Week 12
+#### Monday:  Work and Wealth
+- Rotman, D. (2013). How technology is destroying jobs. Technology Review, 16(4), 28-35. [pdf]
+- Five ways work will change in the future
+
+_Optional_
+- Imagine Discovering That Your Teaching Assistant Really Is a Robot, The Wall Street Journal [link]
+- Goldhahn, J., Rampton, V., & Spinas, G. A. (2018). Could artificial intelligence make doctors obsolete?. Bmj, 363, k4563. [pdf]
+- AI Will Change Radiology, but It Won’t Replace Radiologists, Harvard Business Review [link]
+- The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [link]
+
+#### Wednesday: Technology and Pandemics
+- Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [link]
+- Servick, K. Cellphone tracking could help stem the spread of coronavirus. Is privacy the price? Science Magazine. [link]
+
+_Optional_
+- How Surveillance Could Save Lives Amid a Public Health Crisis, Wired [link]
+- Brewster, T. Two Million Guinea Pigs And Counting: The Remarkable Rise Of Self-Monitoring In The Time Of Coronavirus, Forbes. [link]
+- Raskar, R., Schunemann, I., Barbar, R., Vilcans, K., Gray, J., Vepakomma, P., Kapa, S. et al. "Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic." arXiv preprint arXiv:2003.08567 (2020). [pdf]
+
+## Week 13
+#### Monday: Algorithmic Bias and Fairness
+- The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity
+- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [link]
+- Fairness: Types of Bias
+
+_Optional_
+- Edelman, B., Luca, M., & Svirsky, D. (2017). Racial discrimination in the sharing economy: Evidence from a field experiment. American Economic Journal: Applied Economics, 9(2), 1-22. [pdf]
+- Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). [pdf]
+- When It Comes to Gorillas, Google Photos Remains Blind, Wired [link]
+- Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination, Wired [link
+- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246. [pdf]
+
+#### Wednesday: Fake News and Deep Fakes
+- The Agency (view in incognito mode to access)
+- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [pdf]
+
+## Week 14
+#### Monday: Electronic Voting, Democracy and Computing
+- EFF on Evoting
+- Quinn 7.5, 8.2.1, 8.4.7
+- Voting Machines at Risk: Where We Stand Today
+
+_Optional_
+- Social bots distort the 2016 US Presidential election online discussion
+
+#### Wednesday: TBA
+
+## Week 15
+#### Monday: Envisioning the Singularities Ahead
+- Wolter Pieters. 2018. On Security Singularities. In Proceedings of the New Security Paradigms Workshop (NSPW '18). Association for Computing Machinery, New York, NY, USA, 80–88. DOI:https://doi.org/10.1145/3285002.3285008 [pdf]
+- A. H. Eden et al. (eds.), Singularity Hypotheses, The Frontiers Collection, DOI: 10.1007/978-3-642-32560-1_1,  Springer-Verlag Berlin Heidelberg 2012 [pdf]
