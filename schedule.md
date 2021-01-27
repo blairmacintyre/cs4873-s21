@@ -52,35 +52,34 @@ _Optional:_
 ## Week 4
 #### Monday: Deontology
 - Quinn Chapter 2.6
-- Rachels, J (2011). The Elements of Moral Philosophy (7th Ed), Chapter 9: “Are there absolute moral rules?” [pdf] [in Perusal on Canvas]
+- Rachels, J (2011). The Elements of Moral Philosophy (7th Ed), Chapter 9: “Are there absolute moral rules?” [[pdf](http://ethicsintroduction.weebly.com/uploads/4/4/6/2/44624607/james_rachels_and_stuart_rachels_are_there_absolute_moral_rules.pdf)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/are-there-absolute-moral-rules)]
 
 #### Wednesday: Social Contract Theory
 - Quinn Chapter 2.9
-- Doody, R (2015). Criticisms of Rawls' Principles of Justice. [on Perursal in Canvas]
+- Doody, R (2015). Criticisms of Rawls' Principles of Justice. [[on Perursal in Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/criticisms-of-rawls)]
 
 ## Week 5
 #### Monday: Stakeholder Analysis
 - Quinn 2.12
-- Gilligan, C. (1993). In a different voice. Harvard University Press, pp. 24-39 [on Perusal in Canvas]
+- Gilligan, C. (1993). In a different voice. Harvard University Press, pp. 24-39 [[on Perusal in Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/in-a-different-voice-excerpt)]
 
 #### Wednesday: Virtue Ethics
 - Quinn Chapter 2.10-2.11
-- Hursthouse, Rosalind and Pettigrove, Glen, "Virtue Ethics", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.) [link]
+- Hursthouse, Rosalind and Pettigrove, Glen, "Virtue Ethics", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.) [[link](https://plato.stanford.edu/archives/win2018/entries/ethics-virtue/)]
 
 **Still tentative below this line**
 
 ## Week 6
 #### Monday: Freedom of Speech and Networked Communications
 - Quinn Chapter (7th: 3.2, 3.5-3.8; 8th: 3.2, 3.6-3.9)  skim the rest of the chapter
-- Warf, B. (2011). Geographies of global Internet censorship. GeoJournal, 76(1), 1-23. [pdf]
+- Warf, B. (2011). Geographies of global Internet censorship. GeoJournal, 76(1), 1-23. [[pdf](https://link.springer.com/article/10.1007/s10708-010-9393-3)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/geographies-of-global-internet-censorship)]
 
 #### Wednesday: Regulating Online Speech
-- Banks, J. (2010). Regulating hate speech online. International Review of Law, Computers & Technology, 24(3), 233-239. [pdf]
-- Nott, L (2019) Does the First Amendment Protect Speech Made By Artificial Intelligence? Freedom Forum Institute [link]
+- Banks, J. (2010). Regulating hate speech online. International Review of Law, Computers & Technology, 24(3), 233-239. [[pdf](https://www.tandfonline.com/doi/full/10.1080/13600869.2010.522323)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/regulating-hate-speech-online)]
+- Nott, L (2019) Does the First Amendment Protect Speech Made By Artificial Intelligence? Freedom Forum Institute [[link](https://www.freedomforuminstitute.org/2019/09/19/does-the-first-amendment-protect-speech-made-by-artificial-intelligence/)]
 
 _Optional_
-- Chancellor, S., Pater, J. A., Clear, T., Gilbert, E., & De Choudhury, M. (2016, February). #thyghgapp: Instagram content moderation and lexical variation in pro-eating disorder communities. In Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (pp. 1201-1213). ACM. [pdf]
-- Reddit bans 'Fat People Hate' and other subreddits under new harassment rules, The Verge [link]
+- Reddit bans 'Fat People Hate' and other subreddits under new harassment rules, The Verge [[link](https://www.theverge.com/2015/6/10/8761763/reddit-harassment-ban-fat-people-hate-subreddit)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/reddit-bans-fat-people-hate-and-other-subreddits-under-new-harassment-rules-the-verge)]
 
 ## Week 7
 #### Monday: Intellectual Property
@@ -94,19 +93,19 @@ _Optional_
 
 _Optional Readings (some will likely become required)_
 - Understanding the General Data Protection Regulation: A primer for global publishers
-- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [Perusal on Canvas]
-- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [pdf]
-- O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [pdf] [Perusal on Canvas]
-- Zuckerberg: I know that people don't want privacy, CNet [link] [Perusal on Canvas]
-- Ohm, P. (2009). Broken promises of privacy: Responding to the surprising failure of anonymization. UCLA l. Rev., 57, 1701. [pdf][Perusal on Canvas]
--  "Anonymized" data really isn't and here’s why not, Ars Technica [link] [Perusal on Canvas]
-- The Solace of Oblivion: In Europe, the right to be forgotten trumps the Internet, The New Yorker [link] [Perusal on Canvas]
-- Google wins landmark right to be forgotten case, BBC [link]
+- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [[Perusal on Canvas]()]
+- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [[pdf]()]
+- O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [[pdf]()] [[Perusal on Canvas]()]
+- Zuckerberg: I know that people don't want privacy, CNet [[link]()] [[Perusal on Canvas]()]
+- Ohm, P. (2009). Broken promises of privacy: Responding to the surprising failure of anonymization. UCLA l. Rev., 57, 1701. [[pdf]()][[Perusal on Canvas]()]
+-  "Anonymized" data really isn't and here’s why not, Ars Technica [[link]()] [[Perusal on Canvas]()]
+- The Solace of Oblivion: In Europe, the right to be forgotten trumps the Internet, The New Yorker [[link]()] [[Perusal on Canvas]()]
+- Google wins landmark right to be forgotten case, BBC [[link]()]
 
 #### Wednesday: Privacy and the Government
 - Quinn Chapter 6 (except 6.6)
-- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [pdf] [Perusal on Canvas]
-- The NSA's Secret Role in the US Assassination Program, The Intercept [link] [Perusal on Canvas]
+- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [[pdf]()] [[Perusal on Canvas]()]
+- The NSA's Secret Role in the US Assassination Program, The Intercept [[link]()] [[Perusal on Canvas]()]
 
 ## Week 9
 - Surveillance / USA Patriot Act
@@ -117,7 +116,7 @@ _Optional Readings (some will likely become required)_
 _Optional:_
 - United States of Secrets (movie, 3 hours)
 - EFF's NSA Spying Timeline
-- Asinari, M. V. P., & Poullet, Y. (2004). The airline passenger data disclosure case and the EU-US debate. Computer Law & Security Review, 20(2), 98-116. [pdf] [Perusal on Canvas]
+- Asinari, M. V. P., & Poullet, Y. (2004). The airline passenger data disclosure case and the EU-US debate. Computer Law & Security Review, 20(2), 98-116. [[pdf]()] [[Perusal on Canvas]()]
 - Engineering the public: Big data, surveillance and computational politics
 
 #### Wednesday: Privacy and Biological Data
@@ -131,7 +130,7 @@ _Optional:_
 #### Monday: Professional Ethics
 - Quinn Chapter 9
 - ACM Code of Conduct
-- Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [pdf]
+- Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [[pdf]()]
 
 ## Week 11
 #### Monday:  Network Neutrality
@@ -155,40 +154,40 @@ _Optional_:
 
 ## Week 12
 #### Monday:  Work and Wealth
-- Rotman, D. (2013). How technology is destroying jobs. Technology Review, 16(4), 28-35. [pdf]
+- Rotman, D. (2013). How technology is destroying jobs. Technology Review, 16(4), 28-35. [[pdf]()]
 - Five ways work will change in the future
 
 _Optional_
-- Imagine Discovering That Your Teaching Assistant Really Is a Robot, The Wall Street Journal [link]
-- Goldhahn, J., Rampton, V., & Spinas, G. A. (2018). Could artificial intelligence make doctors obsolete?. Bmj, 363, k4563. [pdf]
-- AI Will Change Radiology, but It Won’t Replace Radiologists, Harvard Business Review [link]
-- The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [link]
+- Imagine Discovering That Your Teaching Assistant Really Is a Robot, The Wall Street Journal [[link]()]
+- Goldhahn, J., Rampton, V., & Spinas, G. A. (2018). Could artificial intelligence make doctors obsolete?. Bmj, 363, k4563. [[pdf]()]
+- AI Will Change Radiology, but It Won’t Replace Radiologists, Harvard Business Review [[link]()]
+- The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [[link]()]
 
 #### Wednesday: Technology and Pandemics
-- Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [link]
-- Servick, K. Cellphone tracking could help stem the spread of coronavirus. Is privacy the price? Science Magazine. [link]
+- Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [[link]()]
+- Servick, K. Cellphone tracking could help stem the spread of coronavirus. Is privacy the price? Science Magazine. [[link]()]
 
 _Optional_
-- How Surveillance Could Save Lives Amid a Public Health Crisis, Wired [link]
-- Brewster, T. Two Million Guinea Pigs And Counting: The Remarkable Rise Of Self-Monitoring In The Time Of Coronavirus, Forbes. [link]
-- Raskar, R., Schunemann, I., Barbar, R., Vilcans, K., Gray, J., Vepakomma, P., Kapa, S. et al. "Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic." arXiv preprint arXiv:2003.08567 (2020). [pdf]
+- How Surveillance Could Save Lives Amid a Public Health Crisis, Wired [[link]()]
+- Brewster, T. Two Million Guinea Pigs And Counting: The Remarkable Rise Of Self-Monitoring In The Time Of Coronavirus, Forbes. [[link]()]
+- Raskar, R., Schunemann, I., Barbar, R., Vilcans, K., Gray, J., Vepakomma, P., Kapa, S. et al. "Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic." arXiv preprint arXiv:2003.08567 (2020). [[pdf]()]
 
 ## Week 13
 #### Monday: Algorithmic Bias and Fairness
 - The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity
-- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [link]
+- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [[link]()]
 - Fairness: Types of Bias
 
 _Optional_
-- Edelman, B., Luca, M., & Svirsky, D. (2017). Racial discrimination in the sharing economy: Evidence from a field experiment. American Economic Journal: Applied Economics, 9(2), 1-22. [pdf]
-- Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). [pdf]
-- When It Comes to Gorillas, Google Photos Remains Blind, Wired [link]
-- Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination, Wired [link
-- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246. [pdf]
+- Edelman, B., Luca, M., & Svirsky, D. (2017). Racial discrimination in the sharing economy: Evidence from a field experiment. American Economic Journal: Applied Economics, 9(2), 1-22. [[pdf]()]
+- Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). [[pdf]()]
+- When It Comes to Gorillas, Google Photos Remains Blind, Wired [[link]()]
+- Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination, Wired [[link
+- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246. [[pdf]()]
 
 #### Wednesday: Fake News and Deep Fakes
 - The Agency (view in incognito mode to access)
-- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [pdf]
+- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [[pdf]()]
 
 ## Week 14
 #### Monday: Electronic Voting, Democracy and Computing
@@ -203,5 +202,5 @@ _Optional_
 
 ## Week 15
 #### Monday: Envisioning the Singularities Ahead
-- Wolter Pieters. 2018. On Security Singularities. In Proceedings of the New Security Paradigms Workshop (NSPW '18). Association for Computing Machinery, New York, NY, USA, 80–88. DOI:https://doi.org/10.1145/3285002.3285008 [pdf]
-- A. H. Eden et al. (eds.), Singularity Hypotheses, The Frontiers Collection, DOI: 10.1007/978-3-642-32560-1_1,  Springer-Verlag Berlin Heidelberg 2012 [pdf]
+- Wolter Pieters. 2018. On Security Singularities. In Proceedings of the New Security Paradigms Workshop (NSPW '18). Association for Computing Machinery, New York, NY, USA, 80–88. DOI:https://doi.org/10.1145/3285002.3285008 [[pdf]()]
+- A. H. Eden et al. (eds.), Singularity Hypotheses, The Frontiers Collection, DOI: 10.1007/978-3-642-32560-1_1,  Springer-Verlag Berlin Heidelberg 2012 [[pdf]()]
