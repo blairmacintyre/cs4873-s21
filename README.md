@@ -41,8 +41,8 @@ A secondary objective is:
 - Argumentation: How do you construct a well-reasoned argument? Whatever you go on to do in your professional career, your success will arguably depend more on your oral and written communication skills than on your technical skills. This class is one of your few and precious opportunities to work to improve those skills.
 
 ## Texts
-- Ethics for the Information Age, [8th Edition](https://www.pearson.com/us/higher-education/program/Quinn-Pearson-e-Text-Ethics-for-the-Information-Age-Access-Card-8th-Edition/PGM2160102.html), by Michael Quinn.  The [7th Edition](https://www.amazon.com/Ethics-Information-Age-Michael-Quinn/dp/0134296540/) is ok, too, and I'll mark differences on the [reading list](schedule#reading-list) when the sections are different).
-- Articles available online (linked from [reading list](schedule#reading-list)).
+- Ethics for the Information Age, [8th Edition](https://www.pearson.com/us/higher-education/program/Quinn-Pearson-e-Text-Ethics-for-the-Information-Age-Access-Card-8th-Edition/PGM2160102.html), by Michael Quinn.  The [7th Edition](https://www.amazon.com/Ethics-Information-Age-Michael-Quinn/dp/0134296540/) is ok, too, and I'll mark differences on the [reading list](schedule#readings) when the sections are different).
+- Articles available online (linked from [reading list](schedule#readings)).
 
 The GT Library's [Web Localizer](http://library.gatech.edu/search/web_localizer.php) is useful for research you need to do for this class. You may also need it to access some assigned readings.
 

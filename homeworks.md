@@ -48,7 +48,7 @@ For your term paper, you will research an issue about computing and society that
 
 Try to be balanced and fair in your presentation of evidence. You don't necessarily need to take a strong stance on the issue. If as you research you find you are really undecided, you may instead write about why there is currently not enough evidence available on your issue. You can review all the existing evidence, and in your conclusion outline what sort of empirical research would be desirable to fully understand the issue.
 
-Quality of writing counts. Please try to make your prose clear and readable. Do not use overly formal language, but also do not use colloquialisms. Your textbooks are reasonable models for the desired writing style.
+_Quality of writing counts_. Please try to make your prose clear and readable. Do not use overly formal language, but also do not use colloquialisms. Your textbooks are reasonable models for the desired writing style.
 
 To the greatest extent possible, all statements in your paper should be supported by appropriate references. If you include personal opinion or other sources of data, mark those clearly. Your bibliography should be in APA style.
 
@@ -66,4 +66,4 @@ You will be required to give a 5 minute presentation on your term paper on your 
 - Ethical considerations — appeals to one or more of the ethical frameworks we covered in class.
 - Your stance or opinion, and your justification for that.
 
-You will notice that the presentation is the week before the paper is due.  This was done so that you have time to take any feedback you get when you present, and incorporate it into your final paper.
+You will notice that the presentation is the week **before** the paper is due.  This was done so that you have time to take any feedback you get when you present, and incorporate it into your final paper.
