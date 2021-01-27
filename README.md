@@ -1,13 +1,13 @@
 
-**Lecture Time**: MW 9:30-10:20 in Teams
-- Many lectures will be asynchronous using pre-recorded lectures (will annotate the schedule with which class period will have synchronous content)
+**Lecture Time**: MW 9:30-10:20 in [Teams](https://teams.microsoft.com/l/team/19%3ae88417d2d71642768e287a8e824d1734%40thread.tacv2/conversations?groupId=0f1dc904-c0c5-46ec-8161-72422838f412&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083)
+- Many lectures will be asynchronous using pre-recorded lectures (will annotate the [schedule](schedule) with which class period will have synchronous content)
 - Instructor and/or TAs will be available to meet during the lecture time when there is no synchronous activity scheduled.
 
 **Discussion Section Times**: See Canvas for your discussion section time
-- All sections held virtually, using Teams or Bluejeans at the discretion of the section's TA.
-- Sections are synchronous and attendance is required every week.
+- All sections held virtually, using [Teams](https://teams.microsoft.com/l/team/19%3ae88417d2d71642768e287a8e824d1734%40thread.tacv2/conversations?groupId=0f1dc904-c0c5-46ec-8161-72422838f412&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083) or Bluejeans at the discretion of the section's TA.
+- Sections are **synchronous** and attendance is required every week.
 
-**Class on Microsoft Teams**: We will use channels in Teams for discussion and lectures (when they are live)
+**Class on Microsoft Teams**: We will use channels in [Teams](https://teams.microsoft.com/l/team/19%3ae88417d2d71642768e287a8e824d1734%40thread.tacv2/conversations?groupId=0f1dc904-c0c5-46ec-8161-72422838f412&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083) for discussion and lectures (when they are live)
 
 **Professor's Office Hours**: MW 10:20 - 11:00am
 
@@ -41,21 +41,21 @@ A secondary objective is:
 - Argumentation: How do you construct a well-reasoned argument? Whatever you go on to do in your professional career, your success will arguably depend more on your oral and written communication skills than on your technical skills. This class is one of your few and precious opportunities to work to improve those skills.
 
 ## Texts
-- Ethics for the Information Age, 8th Edition, by Michael Quinn.  The 7th Edition is ok, too, and I'll mark differences on the reading list when the sections are different).
-- Articles available online (linked from reading list).
+- Ethics for the Information Age, [8th Edition](https://www.pearson.com/us/higher-education/program/Quinn-Pearson-e-Text-Ethics-for-the-Information-Age-Access-Card-8th-Edition/PGM2160102.html), by Michael Quinn.  The [7th Edition](https://www.amazon.com/Ethics-Information-Age-Michael-Quinn/dp/0134296540/) is ok, too, and I'll mark differences on the [reading list](schedule#reading-list) when the sections are different).
+- Articles available online (linked from [reading list](schedule#reading-list)).
 
-The GT Library's Web Localizer is useful for research you need to do for this class. You may also need it to access some assigned readings.
+The GT Library's [Web Localizer](http://library.gatech.edu/search/web_localizer.php) is useful for research you need to do for this class. You may also need it to access some assigned readings.
 
 ## Assignments and Grading
 - Section attendance and Participation (25%) (section expectations and section grading rubric)
-- Homeworks (25%)(note that term paper proposal and outline count as homeworks)
+- [Homeworks](homeworks#homeworks) (25%)(note that term paper proposal and outline count as homeworks)
 - Quizzes (10%)
-- Reading commentaries (10%)
-- Term paper (25%)
-- Term paper presentation (5%)
+- [Reading commentaries](homeworks#reading-commentaries) (10%)
+- [Term paper](homeworks#term-paper) (25%)
+- [Term paper presentation](homeworks#term-paper-presentation) (5%)
 
 ## Schedule
-The weekly schedule is available here.
+The weekly schedule is available [here](schedule#schedule).
 
 ## Course Details
 We will use Canvas and Microsoft Teams for the class.  Synchronous sessions will be scheduled through teams and held there.  Teams channels will be used for Q&A, although we may also set up Piazza on Canvas (TBD).  Canvas will be used for assignments, announcements, and grades.
@@ -73,7 +73,7 @@ A short quiz will be due at the end of the week, to verify that you have watched
 If you miss section for a legitimate reason, you may be given a makeup assignment. The make-up assignment will typically consist of answering all the questions for discussion in writing, and one more essays that asks you to synthesize what is important. Email your TA for the make-up assignment. This includes students who added the class late, are ill, have a job interview, or whatever other reason. Make-up assignments may be handed in up to two weeks after the missed section; up to one-week later for the final section.
 
 ## Reference Format
-Please use APA format for all references. APA format is described here.
+Please use APA format for all references. APA format is [described here](http://www.apastyle.org/).
 
 ## No Multi-Tasking in Section
 Please do not use your laptop or cell phone during section for anything other than video conferencing, taking notes, and referring to assigned readings.
@@ -81,7 +81,7 @@ Please do not use your laptop or cell phone during section for anything other th
 Please keep your camera ON during section. It's easier to have a meaningful conversation when you can see everyone. If you are having bandwidth problems, you may ask your TA if it's OK to turn the camera off.
 
 ## Assignments
-Homeworks will be graded on a list of criteria (specified on the assignment) such as quality of writing, completeness, insight into technical issues, insight into social issues, etc. For each criterion, you will receive either a check plus, check, or check minus. Most criterion will receive a check. A plus means "you impressed me." A minus means the assignment is incomplete, incorrect, or sloppy in some fashion with respect to that criterion.
+[Homeworks](homeworks#homeworks) will be graded on a list of criteria (specified on the assignment) such as quality of writing, completeness, insight into technical issues, insight into social issues, etc. For each criterion, you will receive either a check plus, check, or check minus. Most criterion will receive a check. A plus means "you impressed me." A minus means the assignment is incomplete, incorrect, or sloppy in some fashion with respect to that criterion.
 
 Please hand all assignments in on Canvas unless explicitly instructed otherwise.
 
@@ -99,7 +99,7 @@ Over the course of the term, you have three "late days" where work may be late w
 Reading commentaries will not be accepted late, without a valid unanticipated excuse such as sickness.  Over the semester, your two lowest grades will be dropped.
 
 ## Honor Code
-This class abides by the Georgia Tech Honor Code. All assigned work is expected to be individual, except where explicitly written otherwise. You are encouraged to discuss the assignments with your classmates; however, what you hand in should be your own work.
+This class abides by the [Georgia Tech Honor Code](http://www.policylibrary.gatech.edu/student-affairs/academic-honor-code). All assigned work is expected to be individual, except where explicitly written otherwise. You are encouraged to discuss the assignments with your classmates; however, what you hand in should be your own work.
 
 Please be careful not to copy sentences from readings/references into your assignments verbatim. Sometimes this happens accidentally. For example, a student may copy and paste a sentence into their file of notes, and then later refer to their notes and forget that the sentence is not their own. If you copy anything into notes, make sure to write where you got it from. Other times, students who are struggling with English as a second language may copy sentences because they are struggling with the language. Do not do this. Remember that we have a lenient policy on grading for ESL students.
 
@@ -109,7 +109,7 @@ If copied sentences are detected and the copying appears incidental, the assignm
 As a member of the Georgia Tech community, I am committed to creating a learning environment in which all of my students feel safe and included. Because we are individuals with varying needs, I am reliant on your feedback to achieve this goal. To that end, I invite you to enter into dialogue with me about the things I can stop, start, and continue doing to make my classroom an environment in which every student feels valued and can engage actively in our learning community.
 
 ## Mental Health
-As college students, it can be hard to prioritize your health, especially when you are pushed to prioritize academics, work, and extracurricular activities in the middle of an ongoing pandemic, COVID-19. The instructor and Head TA are happy to talk to you privately if you need mental health related accommodations. Please also refer to the various campus resources to access timely, professional help as well as self-care tips.
+As college students, it can be hard to prioritize your health, especially when you are pushed to prioritize academics, work, and extracurricular activities in the middle of an ongoing pandemic, COVID-19. The instructor and Head TA are happy to talk to you privately if you need mental health related accommodations. Please also refer to the [various campus resources](https://healthinitiatives.gatech.edu/well-being/mental) to access timely, professional help as well as self-care tips.
 
 ---
 ## Acknowledgments
