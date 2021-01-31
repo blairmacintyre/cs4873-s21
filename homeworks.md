@@ -8,13 +8,13 @@ _The details of each home will be in the assignment description on Canvas._
 
 |Homework|Due Date|Weight Toward Grade|
 |----|----|----|
-|[HW1: Therac and the Boeing 737 MAX](./hw1)|Feb 1|3%|
-|[HW2: The Politics of Computing](hw2)|Feb 8|3%|
-|[HW3: Applying Ethical Frameworks to a Dilemma](hw3)|Feb 22|3%|
-|[Term Paper Proposal](paper-proposal)|Mar 1|5%|
-|[HW4: Fair Use](hw4)|Mar 8|3%|
-|[Term paper Outline](paper-outline)|Mar 22|5%|
-|[HW5: New ACM Code](hw5)|Mar 29|3%|
+|[HW1: Therac and the Boeing 737 MAX](homeworks/hw1)|Feb 1|3%|
+|[HW2: The Politics of Computing](homeworks/hw2)|Feb 8|3%|
+|[HW3: Applying Ethical Frameworks to a Dilemma](homeworks/hw3)|Feb 22|3%|
+|[Term Paper Proposal](homeworks/paper-proposal)|Mar 1|5%|
+|[HW4: Fair Use](homeworks/hw4)|Mar 8|3%|
+|[Term paper Outline](homeworks/paper-outline)|Mar 22|5%|
+|[HW5: New ACM Code](homeworks/hw5)|Mar 29|3%|
 
 ## Reading commentaries
 The goal of reading commentaries are twofold: to give you an opportunity to practice (i) thinking critically about readings; and, (ii) communicating your thoughts about how to apply what you've learned in this class. The goal is not to summarize the readings.
