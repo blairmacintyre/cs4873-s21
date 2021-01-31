@@ -1,6 +1,6 @@
 ## Homeworks
 
-There are three sorts of homework assignments beyond the weekly [quizzes](#quizzes): a series of written [homeworks](#homeworks), weekly [reading commentaries](#reading-commentaries), and a [proposal](paper-proposal) and [outline](paper-outline) for the [term paper](#term-paper).
+There are three sorts of homework assignments: a series of written homeworks, weekly [reading commentaries](#reading-commentaries), and a [proposal](paper-proposal) and [outline](paper-outline) for the [term paper](#term-paper).
 
 |Homework|Due Date|Weight Toward Grade|
 |----|----|----|
