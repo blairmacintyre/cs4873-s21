@@ -1,4 +1,4 @@
-## Homework 2: Reflection on the Politics of an Artifact
+# Homework 2: Reflection on the Politics of an Artifact
 
 |---:|:|
 |Due Date:|Feb 8|

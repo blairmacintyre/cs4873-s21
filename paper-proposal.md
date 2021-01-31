@@ -1,4 +1,4 @@
-## Term Paper Proposal
+# Term Paper Proposal
 
 |---:|:---|
 |Due Date:|March 1|

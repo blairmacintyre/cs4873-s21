@@ -1,4 +1,4 @@
-## Homework 3: Applying Different Ethical Frameworks to a Dilemma
+# Homework 3: Applying Different Ethical Frameworks to a Dilemma
 
 |---:|:---|
 |Due Date:|Feb 22|

@@ -1,4 +1,4 @@
-## Term Paper 
+# Term Paper 
 
 |----:|:----|
 |Format|12 pt font, double spaced, approximately 10 pages|
@@ -20,7 +20,7 @@ Please do NOT write about sharing music and other files online, without special 
 
 **Reference Format**: Please use APA format for all references. APA format is described [here](http://www.apastyle.org/).
 
-### Term Paper Presentation
+## Term Paper Presentation
 
 You will be required to give a 5 minute presentation on your term paper on your last recitation day. Don't overthink it. You should cover key points from your paper. You can pick format—you may do a powerpoint, a video, or just speak to you discussion group live. Some points you might consider including: 
 - Description of your topic and why you found it interesting.

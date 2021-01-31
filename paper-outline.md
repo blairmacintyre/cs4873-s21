@@ -1,4 +1,4 @@
-## Term Paper Outline
+# Term Paper Outline
 
 |----:|:----|
 |Due Date:|March 22|

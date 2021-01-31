@@ -1,4 +1,4 @@
-## Homework 1: Therac and the Boeing 737 MAX
+# Homework 1: Therac and the Boeing 737 MAX
 
 |---:|:--|
 |Due Date:|Feb 1|

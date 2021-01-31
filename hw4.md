@@ -1,4 +1,4 @@
-## Homework 4: Fair Use
+# Homework 4: Fair Use
 
 |---:|:--|
 |Due Date:|March 8|
