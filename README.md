@@ -48,8 +48,8 @@ The GT Library's [Web Localizer](http://library.gatech.edu/search/web_localizer.
 
 ## Assignments and Grading
 - Section attendance and Participation (25%) (section expectations and section grading rubric)
-- [Homeworks](homeworks#homeworks) (25%)(note that [term paper proposal](homeworks/paper-proposal) and [outline](homeworks/paper-outline) count as homeworks)
-- Quizzes (10%)
+- [Homeworks](homeworks) (25%)(note that [term paper proposal](paper-proposal) and [outline](paper-outline) count as homeworks)
+- [Quizzes](#quizzes) (10%)
 - [Reading commentaries](homeworks#reading-commentaries) (10%)
 - [Term paper](term-paper) (25%)
 - [Term paper presentation](term-paper#term-paper-presentation) (5%)
@@ -80,8 +80,11 @@ Please do not use your laptop or cell phone during section for anything other th
 
 Please keep your camera ON during section. It's easier to have a meaningful conversation when you can see everyone. If you are having bandwidth problems, you may ask your TA if it's OK to turn the camera off.
 
+## Quizzes
+Each week there will be a quiz based on the material covered that week.  The quizzes will be short, and the questions will usually be of a form that can be auto-graded on canvas (i.e., true/false, multiple choices, etc.).  The quizzes will be time limited, and due at the end of the week.
+
 ## Assignments
-[Homeworks](homeworks#homeworks) will be graded on a list of criteria (specified on the assignment) such as quality of writing, completeness, insight into technical issues, insight into social issues, etc. For each criterion, you will receive either a check plus, check, or check minus. Most criterion will receive a check. A plus means "you impressed me." A minus means the assignment is incomplete, incorrect, or sloppy in some fashion with respect to that criterion.
+[Homeworks](homeworks) will be graded on a list of criteria (specified on the assignment) such as quality of writing, completeness, insight into technical issues, insight into social issues, etc. For each criterion, you will receive either a check plus, check, or check minus. Most criterion will receive a check. A plus means "you impressed me." A minus means the assignment is incomplete, incorrect, or sloppy in some fashion with respect to that criterion.
 
 Please hand all assignments in on Canvas unless explicitly instructed otherwise.
 

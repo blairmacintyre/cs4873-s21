@@ -1,10 +1,6 @@
-There are three sorts of homework assignments beyond the weekly [quizzes](#quizzes): a series of written [homeworks](#homeworks), weekly [reading commentaries](#reading-commentaries), and a [term paper](#term-paper).
-
-## Quizzes
-Each week there will be a quiz based on the material covered that week.  The quizzes will be short, and the questions will usually be of a form that can be auto-graded on canvas (i.e., true/false, multiple choices, etc.).  The quizzes will be time limited, and due at the end of the week.
-
 ## Homeworks
-_The details of each home will be in the assignment description on Canvas._
+
+There are three sorts of homework assignments beyond the weekly [quizzes](#quizzes): a series of written [homeworks](#homeworks), weekly [reading commentaries](#reading-commentaries), and a [proposal](paper-proposal) and [outline](paper-outline) for the [term paper](#term-paper).
 
 |Homework|Due Date|Weight Toward Grade|
 |----|----|----|

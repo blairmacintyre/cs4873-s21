@@ -4,7 +4,7 @@
 |Format|12 pt font, double spaced, approximately 10 pages|
 |Grading Criteria|Writing<br>Quality of research<br>Insight into the issues<br>Bibliography<br>Presentation|
 
-_(Before the term paper itself, you will be submitting and [proposal](homeworks/paper-proposal) and an [outline](homeworks/paper-outline))_
+_(Before the term paper itself, you will be submitting and [proposal](paper-proposal) and an [outline](paper-outline))_
 
 For your term paper, you will research an issue about computing and society that you are initially undecided about. In your paper, you will take a position on that issue and support that position. Your paper should be approximately ten pages long. Don't worry if it's a bit longer or shorter—just make sure to cover your issue well. (Just please don't go significantly over the suggested length.)
 
