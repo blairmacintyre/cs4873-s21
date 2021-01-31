@@ -8,7 +8,7 @@ _The details of each home will be in the assignment description on Canvas._
 
 |Homework|Due Date|Weight Toward Grade|
 |----|----|----|
-|[HW1: Therac and the Boeing 737 MAX](hw1)|Feb 1|3%|
+|[HW1: Therac and the Boeing 737 MAX](./hw1)|Feb 1|3%|
 |[HW2: The Politics of Computing](hw2)|Feb 8|3%|
 |[HW3: Applying Ethical Frameworks to a Dilemma](hw3)|Feb 22|3%|
 |[Term Paper Proposal](paper-proposal)|Mar 1|5%|
