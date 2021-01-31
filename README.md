@@ -44,7 +44,7 @@ A secondary objective is:
 - Ethics for the Information Age, [8th Edition](https://www.pearson.com/us/higher-education/program/Quinn-Pearson-e-Text-Ethics-for-the-Information-Age-Access-Card-8th-Edition/PGM2160102.html), by Michael Quinn.  The [7th Edition](https://www.amazon.com/Ethics-Information-Age-Michael-Quinn/dp/0134296540/) is ok, too, and I'll mark differences on the [reading list](schedule#readings) when the sections are different).
 - Articles available online (linked from [reading list](schedule#readings)).
 
-The GT Library's [Web Localizer](http://library.gatech.edu/search/web_localizer.php) is useful for research you need to do for this class. You may also need it to access some assigned readings.
+The GT Library's [Web Localizer](https://library.gatech.edu/search/web_localizer.php) is useful for research you need to do for this class. You may also need it to access some assigned readings.
 
 ## Assignments and Grading
 - Section attendance and Participation (25%) (section expectations and section grading rubric)
@@ -73,7 +73,7 @@ A short quiz will be due at the end of the week, to verify that you have watched
 If you miss section for a legitimate reason, you may be given a makeup assignment. The make-up assignment will typically consist of answering all the questions for discussion in writing, and one more essays that asks you to synthesize what is important. Email your TA for the make-up assignment. This includes students who added the class late, are ill, have a job interview, or whatever other reason. Make-up assignments may be handed in up to two weeks after the missed section; up to one-week later for the final section.
 
 ## Reference Format
-Please use APA format for all references. APA format is [described here](http://www.apastyle.org/).
+Please use APA format for all references. APA format is [described here](https://www.apastyle.org/).
 
 ## No Multi-Tasking in Section
 Please do not use your laptop or cell phone during section for anything other than video conferencing, taking notes, and referring to assigned readings.
@@ -102,7 +102,7 @@ Over the course of the term, you have three "late days" where work may be late w
 Reading commentaries will not be accepted late, without a valid unanticipated excuse such as sickness.  Over the semester, your two lowest grades will be dropped.
 
 ## Honor Code
-This class abides by the [Georgia Tech Honor Code](http://www.policylibrary.gatech.edu/student-affairs/academic-honor-code). All assigned work is expected to be individual, except where explicitly written otherwise. You are encouraged to discuss the assignments with your classmates; however, what you hand in should be your own work.
+This class abides by the [Georgia Tech Honor Code](https://www.policylibrary.gatech.edu/student-affairs/academic-honor-code). All assigned work is expected to be individual, except where explicitly written otherwise. You are encouraged to discuss the assignments with your classmates; however, what you hand in should be your own work.
 
 Please be careful not to copy sentences from readings/references into your assignments verbatim. Sometimes this happens accidentally. For example, a student may copy and paste a sentence into their file of notes, and then later refer to their notes and forget that the sentence is not their own. If you copy anything into notes, make sure to write where you got it from. Other times, students who are struggling with English as a second language may copy sentences because they are struggling with the language. Do not do this. Remember that we have a lenient policy on grading for ESL students.
 
@@ -120,6 +120,6 @@ Assignments and ideas on this syllabus build on those from everyone who has taug
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Material for CS4873C Spring 2021</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.blairmacintyre.me/cs3451-f19" property="cc:attributionName" rel="cc:attributionURL">Blair MacIntyre</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="https://purl.org/dc/terms/" property="dct:title">Material for CS4873C Spring 2021</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://github.blairmacintyre.me/cs3451-f19" property="cc:attributionName" rel="cc:attributionURL">Blair MacIntyre</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 The intent of choosing (CC BY-NC-SA 4.0) is to allow individuals and instructors at non-profit entities to use this content.  This includes not-for-profit schools (K-12 and post-secondary). For-profit entities (or people creating courses for those sites) may not use this content without permission (this includes, but is not limited to, for-profit schools and universities and commercial education sites such as Corsera, Udacity, LinkedIn Learning, and other similar sites).   

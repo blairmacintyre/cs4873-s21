@@ -31,7 +31,7 @@ Here you will find the readings for each day. Optional readings are in italics.
 - Leveson, N. (1995). Medical devices: The therac-25. Appendix of: Safeware: System Safety and Computers. [[pdf](https://www.semanticscholar.org/paper/Medical-Devices%3A-the-Therac-25-Leveson/c8342b895886629af124eb29db6da68a5a370f99)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/leveson-therac-25)]
 
 _Optional:_
-- _Radiation Offers New Cures, and Ways to Do Harm, The New York Times_ [[link](http://www.nytimes.com/2010/01/24/health/24radiation.html)]
+- _Radiation Offers New Cures, and Ways to Do Harm, The New York Times_ [[link](https://www.nytimes.com/2010/01/24/health/24radiation.html)]
 - _Ganesh, T. (2014). Incident reporting and learning in radiation oncology: Need of the hour. Journal of Medical Physics/Association of Medical Physicists of India, 39(4), 203._ [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4258726/)] [[Perusal](https://app.perusall.com/courses/computing-society-and-professionalism/incident-reporting-and-learning-in-radiation-oncology-need-of-the-hour)]
 
 #### Wednesday: Rhetoric & Writing Arguments
@@ -41,7 +41,7 @@ _Optional:_
 ## Week 3 
 #### Monday: Do Artifacts Have Politics?
 - Winner, L. (1980). Do artifacts have politics?. Daedalus, 121-136. [[pdf](https://www.jstor.org/stable/pdf/20024652.pdf?casa_token=t3nELTvVlrcAAAAA:PPXcneMC9AiqH9e3tWdTsp7ALDRwfjOBlw7XaYh_eIEBjFnX7uhwNwrQNzJ7427N-wJ68ApbfmX5LCcFuuz3GU2gUrloEWC6bc40L_IeZBFpDUXhOxjT)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/do-artifacts-have-politics-944773641)]
-- Gillespie, T. (2014). The relevance of algorithms. Media technologies: Essays on communication, materiality, and society, 167, 167. [[pdf](http://www.intgovforum.org/multilingual/sites/default/files/webform/the_relevance_of_algorithms_-_tarleton_gillespie.pdf)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/the-relevance-of-algorithms)]
+- Gillespie, T. (2014). The relevance of algorithms. Media technologies: Essays on communication, materiality, and society, 167, 167. [[pdf](https://www.intgovforum.org/multilingual/sites/default/files/webform/the_relevance_of_algorithms_-_tarleton_gillespie.pdf)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/the-relevance-of-algorithms)]
 
 _Optional:_
 - Planet Money episode 924: Stuck in China's Panopticon (time: 26:36) [[link](https://www.npr.org/2019/07/05/738949320/episode-924-stuck-in-chinas-panopticon)]
@@ -52,7 +52,7 @@ _Optional:_
 ## Week 4
 #### Monday: Deontology
 - Quinn Chapter 2.6
-- Rachels, J (2011). The Elements of Moral Philosophy (7th Ed), Chapter 9: “Are there absolute moral rules?” [[pdf](http://ethicsintroduction.weebly.com/uploads/4/4/6/2/44624607/james_rachels_and_stuart_rachels_are_there_absolute_moral_rules.pdf)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/are-there-absolute-moral-rules)]
+- Rachels, J (2011). The Elements of Moral Philosophy (7th Ed), Chapter 9: “Are there absolute moral rules?” [[pdf](https://ethicsintroduction.weebly.com/uploads/4/4/6/2/44624607/james_rachels_and_stuart_rachels_are_there_absolute_moral_rules.pdf)] [[in Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/are-there-absolute-moral-rules)]
 
 #### Wednesday: Social Contract Theory
 - Quinn Chapter 2.9

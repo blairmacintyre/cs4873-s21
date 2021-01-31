@@ -1,6 +1,7 @@
 # Term Paper 
 
 |----:|:----|
+|Due|April 26|
 |Format|12 pt font, double spaced, approximately 10 pages|
 |Grading Criteria|Writing<br>Quality of research<br>Insight into the issues<br>Bibliography<br>Presentation|
 
@@ -18,7 +19,7 @@ Please avoid citing the same reference over and over. Sometimes we get term pape
 
 Please do NOT write about sharing music and other files online, without special permission of the instructor. You may not write about privacy implications of RFID tags, because so many students have written about this in the past and there are old term papers circulating on campus. Your submitted term paper will be compared to an archive of past term papers.
 
-**Reference Format**: Please use APA format for all references. APA format is described [here](http://www.apastyle.org/).
+**Reference Format**: Please use APA format for all references. APA format is described [here](https://www.apastyle.org/).
 
 ## Term Paper Presentation
 

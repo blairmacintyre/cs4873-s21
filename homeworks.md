@@ -39,4 +39,4 @@ If you only get "checks", you will end up with a 90 (9/10 on the "commentaries" 
 
 ## Reference Format 
 
-Please use APA format for all references in all homeworks and submissions. APA format is described [here](http://www.apastyle.org/).
+Please use APA format for all references in all homeworks and submissions. APA format is described [here](s://www.apastyle.org/).
