@@ -1,16 +1,17 @@
 ## Homework 2: Reflection on the Politics of an Artifact
 
 |---:|:|
+|Due Date:|Feb 8|
 |Format:|Approximately 2 to 3 pages, double spaced, 12 pt font|
 |Grading criteria:|Completeness<br>Writing<br>Insight into issues|
 
 Pick a technology that uses computing in some fashion, and describe what values and politics it embodies. Speculate about what implications of the technology are likely intentional, and which ones are likely unintentional. Also consider implications for different groups affected by the technology. You may want to consider marginalized groups like victims of domestic violence or stalking, or people who live under authoritarian regimes.
 
-Possible topics include:
+Examples of possible topics include:
 - drones
 - fitness trackers
 - GPS
-- AI algorithms that make decisions (like whether to give someone a loan)
+- cloud-based video doorbells (e.g., Ring)
 - face recognition software
 - any other computing technology of your choice
 

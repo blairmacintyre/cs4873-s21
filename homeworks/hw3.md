@@ -1,6 +1,7 @@
 ## Homework 3: Applying Different Ethical Frameworks to a Dilemma
 
 |---:|:---|
+|Due Date:|Feb 22|
 |Format:|Approximately 4 pages, 12 pt font, double spaced|
 |Grading criteria:|Completeness<br>Writing<br>Insight into each ethical theory<br>Individual ethical analysis|
 

@@ -1,6 +1,7 @@
 ## Homework 4: Fair Use
 
 |---:|:--|
+|Due Date:|March 8|
 |Format:|Approximately 2 pages, double spaced, 12 pt font|
 |Grading criteria:|Completeness<br>Writing<br>Insight into legal issues|
 
@@ -21,4 +22,4 @@ You only need to discuss one case.
 
 Include a bibliography. Make sure to cite the court opinion and at least three articles about the case. Those articles may be in the popular press or blog posts. Ie, they don't need to be peer reviewed. It's OK to skim the court decision--you don't need to read the whole thing closely.
 
-Come to section prepared to discuss your opinions. 
+Come to section during the week of March 1st (the week before this is due) prepared to discuss your opinions.

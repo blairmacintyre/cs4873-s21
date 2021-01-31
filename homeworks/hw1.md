@@ -1,6 +1,7 @@
 ## Homework 1: Therac and the Boeing 737 MAX
 
-|---:|:|
+|---:|:--|
+|Due Date:|Feb 1|
 |Format:|Approximately 3 pages, double spaced, 12 pt font|
 |Grading criteria:|	Completeness<br>Writing<br>Insight into issues<br>Bibliography|
 

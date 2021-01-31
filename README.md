@@ -48,11 +48,11 @@ The GT Library's [Web Localizer](http://library.gatech.edu/search/web_localizer.
 
 ## Assignments and Grading
 - Section attendance and Participation (25%) (section expectations and section grading rubric)
-- [Homeworks](homeworks#homeworks) (25%)(note that term paper proposal and outline count as homeworks)
+- [Homeworks](homeworks#homeworks) (25%)(note that [term paper proposal](homeworks/paper-proposal) and [outline](homeworks/paper-outline) count as homeworks)
 - Quizzes (10%)
 - [Reading commentaries](homeworks#reading-commentaries) (10%)
-- [Term paper](homeworks#term-paper) (25%)
-- [Term paper presentation](homeworks#term-paper-presentation) (5%)
+- [Term paper](term-paper) (25%)
+- [Term paper presentation](term-paper#term-paper-presentation) (5%)
 
 ## Schedule
 The weekly schedule is available [here](schedule#schedule).
