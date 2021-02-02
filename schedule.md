@@ -84,6 +84,7 @@ _Optional_
 ## Week 7
 #### Monday: Intellectual Property
 - Quinn Chapter 4.1-4.6
+
 #### Wednesday: Software as IP
 - Quinn Chapter 4.7-4.10
 
