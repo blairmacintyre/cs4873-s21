@@ -1,7 +1,7 @@
 # Homework 4: Fair Use
 
 |---:|:--|
-|Due Date:|March 8|
+|Due Date:|Wed March 10 at 5pm|
 |Format:|Approximately 2 pages, double spaced, 12 pt font|
 |Grading criteria:|Completeness<br>Writing<br>Insight into legal issues|
 

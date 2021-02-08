@@ -1,7 +1,7 @@
 # Homework 2: Reflection on the Politics of an Artifact
 
 |---:|:|
-|Due Date:|Feb 8|
+|Due Date:|Mon Feb 8 at 11:59pm|
 |Format:|Approximately 2 to 3 pages, double spaced, 12 pt font|
 |Grading criteria:|Completeness<br>Writing<br>Insight into issues|
 

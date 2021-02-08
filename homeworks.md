@@ -6,11 +6,11 @@ There are three sorts of homework assignments: a series of written homeworks, we
 |----|----|----|
 |[HW1: Therac and the Boeing 737 MAX](hw1)|Feb 1|3%|
 |[HW2: The Politics of Computing](hw2)|Feb 8|3%|
-|[HW3: Applying Ethical Frameworks to a Dilemma](hw3)|Feb 22|3%|
+|[HW3: Applying Ethical Frameworks to a Dilemma](hw3)|Feb 24|3%|
 |[Term Paper Proposal](paper-proposal)|Mar 1|5%|
-|[HW4: Fair Use](hw4)|Mar 8|3%|
+|[HW4: Fair Use](hw4)|Mar 10|3%|
 |[Term paper Outline](paper-outline)|Mar 22|5%|
-|[HW5: New ACM Code](hw5)|Mar 29|3%|
+|[HW5: New ACM Code](hw5)|Mar 31|3%|
 
 ## Reading commentaries
 The goal of reading commentaries are twofold: to give you an opportunity to practice (i) thinking critically about readings; and, (ii) communicating your thoughts about how to apply what you've learned in this class. The goal is not to summarize the readings.
