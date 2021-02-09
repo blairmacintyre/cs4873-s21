@@ -86,7 +86,7 @@ _Optional_
 #### Wednesday: Software as IP
 - Quinn Chapter 4.7-4.10
 
-**Still tentative below this line**
+# _Still tentative below this line_
 
 ## Week 8
 #### Monday: Privacy
