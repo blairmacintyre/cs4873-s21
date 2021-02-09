@@ -67,8 +67,6 @@ _Optional:_
 - Quinn Chapter 2.10-2.11
 - Hursthouse, Rosalind and Pettigrove, Glen, "Virtue Ethics", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.) [[link](https://plato.stanford.edu/archives/win2018/entries/ethics-virtue/)]
 
-**Still tentative below this line**
-
 ## Week 6
 #### Monday: Freedom of Speech and Networked Communications
 - Quinn Chapter (7th: 3.2, 3.5-3.8; 8th: 3.2, 3.6-3.9)  skim the rest of the chapter
@@ -87,6 +85,8 @@ _Optional_
 
 #### Wednesday: Software as IP
 - Quinn Chapter 4.7-4.10
+
+**Still tentative below this line**
 
 ## Week 8
 #### Monday: Privacy
