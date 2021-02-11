@@ -65,6 +65,8 @@ _Optional:_
 
 _Optional_
 - Goodpaster, K. E. Business Ethics and Stakeholder Analysis. Bus Ethics Q 1, 53–73 (1991). [Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/business-ethics-and-stakeholder-analysis) [link](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/abs/business-ethics-and-stakeholder-analysis/9B612083C2D8FDCEF30D498C49FABDE9)]
+- Kramer and Pfitzer, The Ecosystem of Shared Value. [link](https://hbr.org/2016/10/the-ecosystem-of-shared-value) (discussion of Shared Value Framework and more recent activity)
+
 
 #### Wednesday: Virtue Ethics
 - Quinn Chapter 2.10-2.11
