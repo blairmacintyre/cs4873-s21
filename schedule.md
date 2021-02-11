@@ -63,6 +63,9 @@ _Optional:_
 - Quinn 2.12
 - Gilligan, C. (1993). In a different voice. Harvard University Press, pp. 24-39 [[on Perusal in Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/in-a-different-voice-excerpt)]
 
+_Optional_
+- Goodpaster, K. E. Business Ethics and Stakeholder Analysis. Bus Ethics Q 1, 53–73 (1991). [Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/business-ethics-and-stakeholder-analysis) [link](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/abs/business-ethics-and-stakeholder-analysis/9B612083C2D8FDCEF30D498C49FABDE9)]
+
 #### Wednesday: Virtue Ethics
 - Quinn Chapter 2.10-2.11
 - Hursthouse, Rosalind and Pettigrove, Glen, "Virtue Ethics", The Stanford Encyclopedia of Philosophy (Winter 2018 Edition), Edward N. Zalta (ed.) [[link](https://plato.stanford.edu/archives/win2018/entries/ethics-virtue/)]
