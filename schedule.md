@@ -79,8 +79,6 @@ _Optional_
 #### Wednesday: Regulating Online Speech
 - Banks, J. (2010). Regulating hate speech online. International Review of Law, Computers & Technology, 24(3), 233-239. [[pdf](https://www.tandfonline.com/doi/full/10.1080/13600869.2010.522323)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/regulating-hate-speech-online)]
 - Nott, L (2019) Does the First Amendment Protect Speech Made By Artificial Intelligence? Freedom Forum Institute [[link](https://www.freedomforuminstitute.org/2019/09/19/does-the-first-amendment-protect-speech-made-by-artificial-intelligence/)]
-
-_Optional_
 - Reddit bans 'Fat People Hate' and other subreddits under new harassment rules, The Verge [[link](https://www.theverge.com/2015/6/10/8761763/reddit-harassment-ban-fat-people-hate-subreddit)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/reddit-bans-fat-people-hate-and-other-subreddits-under-new-harassment-rules-the-verge)]
 
 ## Week 7
