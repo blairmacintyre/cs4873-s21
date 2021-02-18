@@ -89,6 +89,7 @@ _Optional_
 
 #### Wednesday: Software as IP
 - Quinn Chapter 4.7-4.10
+- Ben Klemens, Here we go again: Software patents poised to make a comeback under new patent office rules. 1/10/2019 [ArsTechnica Link](https://arstechnica.com/tech-policy/2019/01/software-patents-poised-to-make-a-comeback-under-new-patent-office-rules/)
 
 # _Still tentative below this line_
 
