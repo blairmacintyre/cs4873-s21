@@ -76,6 +76,9 @@ _Optional_
 - Quinn Chapter (7th: 3.2, 3.5-3.8; 8th: 3.2, 3.6-3.9)  skim the rest of the chapter
 - Warf, B. (2011). Geographies of global Internet censorship. GeoJournal, 76(1), 1-23. [[pdf](https://link.springer.com/article/10.1007/s10708-010-9393-3)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/geographies-of-global-internet-censorship)]
 
+_Optional Readings_
+- Jillian York (2021), Users, not tech executives, should decide what constitutes free speech online. [MIT Tech Review](https://www.technologyreview.com/2021/01/09/1015977/who-decides-free-speech-online/)
+
 #### Wednesday: Regulating Online Speech
 - Banks, J. (2010). Regulating hate speech online. International Review of Law, Computers & Technology, 24(3), 233-239. [[pdf](https://www.tandfonline.com/doi/full/10.1080/13600869.2010.522323)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/regulating-hate-speech-online)]
 - Nott, L (2019) Does the First Amendment Protect Speech Made By Artificial Intelligence? Freedom Forum Institute [[link](https://www.freedomforuminstitute.org/2019/09/19/does-the-first-amendment-protect-speech-made-by-artificial-intelligence/)]
