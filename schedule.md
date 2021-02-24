@@ -105,11 +105,12 @@ _Optional Reading_:
 ## Week 8
 #### Monday: Privacy
 - Quinn Chapter 5
+- Gilad Edelman (2021), A Case Against the Peeping Tom Theory of Privacy. [wired](https://www.wired.com/story/against-peeping-tom-theory-of-privacy)
 
 _Optional Readings (some will likely become required)_
-- Gilad Edelman, A Case Against the Peeping Tom Theory of Privacy. [wired](https://www.wired.com/story/against-peeping-tom-theory-of-privac)
 - Understanding the General Data Protection Regulation: A primer for global publishers
-- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [[Perusal on Canvas]()]
+- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [[Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/i-ve-got-nothing-to-hide-and-other-misunderstandings-of-privacy)]
+
 - Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [[pdf]()]
 - O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [[pdf]()] [[Perusal on Canvas]()]
 - Zuckerberg: I know that people don't want privacy, CNet [[link]()] [[Perusal on Canvas]()]
