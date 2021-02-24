@@ -1,7 +1,7 @@
 # Term Paper Proposal
 
 |---:|:---|
-|Due Date:|March 1|
+|Due Date:|March 3|
 |Format|Approximately 2 pages, double spaced, 12 pt Times New Roman font|
 |Grading Criteria|Completeness<br>Writing<br>Quality of references<br>Quality of argument|
 
