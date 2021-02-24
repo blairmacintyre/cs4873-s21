@@ -85,12 +85,20 @@ _Optional Readings_
 - Reddit bans 'Fat People Hate' and other subreddits under new harassment rules, The Verge [[link](https://www.theverge.com/2015/6/10/8761763/reddit-harassment-ban-fat-people-hate-subreddit)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/reddit-bans-fat-people-hate-and-other-subreddits-under-new-harassment-rules-the-verge)]
 
 ## Week 7
-#### Monday: Intellectual Property
-- Quinn Chapter 4.1-4.6
+#### Before Monday: Intellectual Property
+- Quinn Chapter 4.1-4.6 (for the recorded lecture)
 
-#### Wednesday: Software as IP
+#### Monday: Software as IP
 - Quinn Chapter 4.7-4.10
+- Summary of Oracle v. Google case at the Supreme Court – the most important software IP case in probably 10 years.  Relates to fair use and API’s.
+[ScotusBlog](https://www.scotusblog.com/2020/10/case-preview-justices-to-weigh-in-on-landmark-copyright-battle-between-google-and-oracle/)
+- Why the Affero GPL?  This modern take on the GPL open source license closed a big loophole and is used by modern commercial open source software applications. [link](https://www.gnu.org/licenses/why-affero-gpl.en.html)
+- Announcement by ElasticSearch that they are moving to a copyleft open source license and would like the SSPL to become the new modern commercial open source license.  Don’t worry about the specifics of the licenses as much as noting Elastic’s commercial goals and the confusion caused in the market by the change. [link](https://www.elastic.co/blog/elastic-license-v2)
+
+_Optional Reading_:
 - Ben Klemens, Here we go again: Software patents poised to make a comeback under new patent office rules. 1/10/2019 [ArsTechnica Link](https://arstechnica.com/tech-policy/2019/01/software-patents-poised-to-make-a-comeback-under-new-patent-office-rules/)
+
+#### No class Wednesday
 
 # _Still tentative below this line_
 
