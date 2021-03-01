@@ -94,60 +94,61 @@ _Optional Readings_
 [[ScotusBlog](https://www.scotusblog.com/2020/10/case-preview-justices-to-weigh-in-on-landmark-copyright-battle-between-google-and-oracle/)]
 - Why the Affero GPL?  This modern take on the GPL open source license closed a big loophole and is used by modern commercial open source software applications. [[link](https://www.gnu.org/licenses/why-affero-gpl.en.html)]
 - Announcement by ElasticSearch that they are moving to a copyleft open source license and would like the SSPL to become the new modern commercial open source license.  Don’t worry about the specifics of the licenses as much as noting Elastic’s commercial goals and the confusion caused in the market by the change. [[link](https://www.elastic.co/blog/elastic-license-v2)]
-
-_Optional Reading_:
 - Ben Klemens, Here we go again: Software patents poised to make a comeback under new patent office rules. 1/10/2019 [[ArsTechnica Link](https://arstechnica.com/tech-policy/2019/01/software-patents-poised-to-make-a-comeback-under-new-patent-office-rules/)]
 
 #### No class Wednesday
 
-# _Still tentative below this line_
-
 ## Week 8
 #### Monday: Privacy
 - Quinn Chapter 5
-- Gilad Edelman (2021), A Case Against the Peeping Tom Theory of Privacy. [wired](https://www.wired.com/story/against-peeping-tom-theory-of-privacy)
+- Gilad Edelman (2021), A Case Against the Peeping Tom Theory of Privacy. [[wired](https://www.wired.com/story/against-peeping-tom-theory-of-privacy)]
+- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/i-ve-got-nothing-to-hide-and-other-misunderstandings-of-privacy)]
+- Ohm, P. (2009). Broken promises of privacy: Responding to the surprising failure of anonymization. UCLA l. Rev., 57, 1701. [[pdf](https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/uclalr57&section=48&casa_token=bHqFeCT7et0AAAAA:IfvSX8UMBRCpMzv4M-cREep_o3FBGbhf_kw45phhBG-iUkbzu0te0_dtNfNSMOQ8xwT9Vs6Et-A)][[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/broken-promises-of-privacy-responding-to-the-surprising-failure-of-anonymization)]
+- "Anonymized" data really isn't and here’s why not, Ars Technica [[link](https://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/anonymized-data-really-isn-t-and-here-s-why-not-or-ars-technica)]
 
 _Optional Readings (these have been used by other faculty in the past, some you might find interesting)_
-- Understanding the General Data Protection Regulation: A primer for global publishers
-- Solove, Daniel J., 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review, Vol. 44, p. 745, 2007, GWU Law School Public Law Research Paper No. 289, Available at SSRN: https://ssrn.com/abstract=998565 [[Perusal on Canvas](https://app.perusall.com/courses/computing-society-and-professionalism/i-ve-got-nothing-to-hide-and-other-misunderstandings-of-privacy)]
 
-- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [[pdf]()]
-- O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [[pdf]()] [[Perusal on Canvas]()]
-- Zuckerberg: I know that people don't want privacy, CNet [[link]()] [[Perusal on Canvas]()]
-- Ohm, P. (2009). Broken promises of privacy: Responding to the surprising failure of anonymization. UCLA l. Rev., 57, 1701. [[pdf]()][[Perusal on Canvas]()]
--  "Anonymized" data really isn't and here’s why not, Ars Technica [[link]()] [[Perusal on Canvas]()]
-- The Solace of Oblivion: In Europe, the right to be forgotten trumps the Internet, The New Yorker [[link]()] [[Perusal on Canvas]()]
-- Google wins landmark right to be forgotten case, BBC [[link]()]
+- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. [[link](https://science.sciencemag.org/content/347/6221/509?casa_token=mWjrmiQmxA4AAAAA%3AXzcOgHul7nb8pZgyEDN3o0-dQatU-Nb7aKb9yVK07uWSfFJqa3fETkwmUcYsiN7rCH3hfxLVBTFFV6c)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/privacy-and-human-behavior-in-the-age-of-information)]
+- O'Hara, K. (2013). Are we getting privacy the wrong way round?. IEEE Internet Computing, 17(4), 89-92. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6547595)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/are-we-getting-privacy-the-wrong-way-round)]
+- Zuckerberg: I know that people don't want privacy, CNet [[link](https://www.cnet.com/news/zuckerberg-i-know-that-people-dont-want-privacy/)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/zuckerberg-i-know-that-people-don-t-want-privacy-cnet)]
+- The Solace of Oblivion: In Europe, the right to be forgotten trumps the Internet, The New Yorker [[link](https://www.newyorker.com/magazine/2014/09/29/solace-oblivion)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/the-solace-of-oblivion-google-and-the-right-to-be-forgotten-or-the-new-yorker)]
+- Google wins landmark right to be forgotten case, BBC [[link](https://www.bbc.com/news/technology-49808208)]
 
 #### Wednesday: Privacy and the Government
 - Quinn Chapter 6 (except 6.6)
-- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [[pdf]()] [[Perusal on Canvas]()]
-- The NSA's Secret Role in the US Assassination Program, The Intercept [[link]()] [[Perusal on Canvas]()]
+- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [[pdf](http://www.guicolandia.net/files/expansao/Big%20data%20meets%20Big%20Brother%20as%20China%20moves%20to%20rate%20its%20citizens.pdf)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/big-data-meets-big-brother-as-china-moves-to-rate-its-citizens)]
+- The NSA's Secret Role in the US Assassination Program, The Intercept [[link](https://theintercept.com/2014/02/10/the-nsas-secret-role/)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/the-nsa-s-secret-role-in-the-u-s-assassination-program)]
+
+_Optional readings_
+- Understanding the General Data Protection Regulation: A primer for global publishers. [[link](https://www.cjr.org/tow_center_reports/understanding-general-data-protection-regulation.php/)]
 
 ## Week 9
-- Surveillance / USA Patriot Act
-- Quinn Chapter 6.6
-- Wikipedia articles: "Brandon Mayfield", "Summary of important points about the USA Patriot Act" 
-- Wikipedia and other articles to skim: The Foreign Intelligence Surveillance Act (FISA), FISA Amendments Act, The USA Patriot Act, National Security Letters, Don't Renew Section 215 Indefinitely by EFF
+- Quinn Chapter 6.6: Surveillance / USA Patriot Act
+- Wikipedia articles to read: "Brandon Mayfield" [[link](http://en.wikipedia.org/wiki/Brandon_Mayfield)], "Summary of important points about the USA Patriot Act" [[link](https://www.cc.gatech.edu/~asb/teaching/4873/fall2020/patriot-to-know.html)] 
+- "Wikipedia and other articles to skim: The Foreign Intelligence Surveillance Act (FISA)" [[link](http://en.wikipedia.org/wiki/Foreign_Intelligence_Act)], "FISA Amendments Act" [[link](http://en.wikipedia.org/wiki/FISA_Amendments_Act_of_2008)], "The USA Patriot Act" [[link](http://en.wikipedia.org/wiki/USA_PATRIOT_Act)], "National Security Letters" [[link](https://en.wikipedia.org/wiki/National_security_letter)]
+- Don't Renew Section 215 Indefinitely, by EFF [[link](https://www.eff.org/deeplinks/2019/08/eff-says-no-trump-administrations-push-renew-section-215-indefinitely)]
 
-_Optional:_
-- United States of Secrets (movie, 3 hours)
-- EFF's NSA Spying Timeline
-- Asinari, M. V. P., & Poullet, Y. (2004). The airline passenger data disclosure case and the EU-US debate. Computer Law & Security Review, 20(2), 98-116. [[pdf]()] [[Perusal on Canvas]()]
-- Engineering the public: Big data, surveillance and computational politics
+_Optional readings:_
+- United States of Secrets ([[movie](http://www.pbs.org/wgbh/pages/frontline/united-states-of-secrets/)], 3 hours)
+- EFF's NSA Spying Timeline [[link](https://www.eff.org/nsa-spying/timeline)]
+- Asinari, M. V. P., & Poullet, Y. (2004). The airline passenger data disclosure case and the EU-US debate. Computer Law & Security Review, 20(2), 98-116. [[pdf](http://www.crid.be/pdf/public/4297.pdf)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/the-airline-passenger-data-disclosure-case-and-the-eu-us-debate)]
+- Engineering the public: Big data, surveillance and computational politics. [[link](https://firstmonday.org/ojs/index.php/fm/article/view/4901/4097)]
 
 #### Wednesday: Privacy and Biological Data
-- The Golden State Killer Is Tracked Through a Thicket of DNA
-- Your DNA Profile is Private? A Florida Judge Just Said Otherwise
-- More Than Just Privacy: Using Contextual Integrity to Evaluate the Long-Term Risks from COVID-19 Surveillance Technologies by Jessica Vitak and Michael Zimmer
-- Facial recognition: is the technology taking away your identity?
-- Viewpoint: 'Have You Thought About . . .': Talking About Ethical Implications of Research by Amy Bruckman
+- The Golden State Killer Is Tracked Through a Thicket of DNA [[link](https://www.nytimes.com/2018/04/27/health/dna-privacy-golden-state-killer-genealogy.html)]
+- Your DNA Profile is Private? A Florida Judge Just Said Otherwise [[link](https://www.nytimes.com/2019/11/05/business/dna-database-search-warrant.html?smid=nytcore-ios-share&fbclid=IwAR3ErSSVHR8bJ5QLLv6Qaj_4R4uIF0WrbgHQWcx0VQg_vj8Gh8duz4wTyDE)]
+- Facial recognition: is the technology taking away your identity? [[link](https://www.theguardian.com/technology/2014/may/04/facial-recognition-technology-identity-tesco-ethical-issues)]
+
+_Optional readings:_
+- Viewpoint: 'Have You Thought About . . .': Talking About Ethical Implications of Research, by Amy Bruckman. [[link](https://cacm.acm.org/magazines/2020/9/246935-have-you-thought-about/fulltext)]
 
 ## Week 10
 #### Monday: Professional Ethics
 - Quinn Chapter 9
-- ACM Code of Conduct
-- Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [[pdf]()]
+- ACM Code of Conduct [[link](https://ethics.acm.org/)]
+- Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [[pdf](https://dl.acm.org/doi/pdf/10.1145/151220.151231)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/using-the-new-acm-code-of-ethics-in-decision-making)]
+
+# _Still tentative below this line_
 
 ## Week 11
 #### Monday:  Network Neutrality
@@ -181,13 +182,14 @@ _Optional_
 - The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [[link]()]
 
 #### Wednesday: Technology and Pandemics
-- Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [[link]()]
-- Servick, K. Cellphone tracking could help stem the spread of coronavirus. Is privacy the price? Science Magazine. [[link]()]
+- Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [[link](https://www.eff.org/deeplinks/2020/03/protecting-civil-liberties-during-public-health-crisis)]
+- Servick, K. Cellphone tracking could help stem the spread of coronavirus. Is privacy the price? Science Magazine. [[link](https://www.sciencemag.org/news/2020/03/cellphone-tracking-could-help-stem-spread-coronavirus-privacy-price#)]
+- More Than Just Privacy: Using Contextual Integrity to Evaluate the Long-Term Risks from COVID-19 Surveillance Technologies, by Jessica Vitak and Michael Zimmer [[link](https://journals.sagepub.com/doi/10.1177/2056305120948250)]
 
-_Optional_
-- How Surveillance Could Save Lives Amid a Public Health Crisis, Wired [[link]()]
-- Brewster, T. Two Million Guinea Pigs And Counting: The Remarkable Rise Of Self-Monitoring In The Time Of Coronavirus, Forbes. [[link]()]
-- Raskar, R., Schunemann, I., Barbar, R., Vilcans, K., Gray, J., Vepakomma, P., Kapa, S. et al. "Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic." arXiv preprint arXiv:2003.08567 (2020). [[pdf]()]
+_Optional readings:_
+- How Surveillance Could Save Lives Amid a Public Health Crisis, Wired [[link](https://www.wired.com/story/surveillance-save-lives-amid-public-health-crisis/)]
+- Brewster, T. Two Million Guinea Pigs And Counting: The Remarkable Rise Of Self-Monitoring In The Time Of Coronavirus, Forbes. [[link](https://www.forbes.com/sites/thomasbrewster/2020/03/27/two-at-2-million-guinea-pigs-and-counting-the-remarkable-rise-of-self-monitoring-in-the-time-of-coronavirus/#1ed7ef8e3112)]
+- Raskar, R., Schunemann, I., Barbar, R., Vilcans, K., Gray, J., Vepakomma, P., Kapa, S. et al. "Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic." arXiv preprint arXiv:2003.08567 (2020). [[pdf](https://arxiv.org/pdf/2003.08567.pdf)]
 
 ## Week 13
 #### Monday: Algorithmic Bias and Fairness
