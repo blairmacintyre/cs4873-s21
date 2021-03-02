@@ -148,27 +148,27 @@ _Optional readings:_
 - ACM Code of Conduct [[link](https://ethics.acm.org/)]
 - Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [[pdf](https://dl.acm.org/doi/pdf/10.1145/151220.151231)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/using-the-new-acm-code-of-ethics-in-decision-making)]
 
-# _Still tentative below this line_
-
 ## Week 11
 #### Monday:  Network Neutrality
-- Point/Counterpoint: Network Neutrality Nuances
-- What Everyone Gets Wrong in the Debate Over Net Neutrality
-- Net Neutrality: How Recent Developments Could Affect Content Companies and Other IP-Intensive Businesses by Benjamin Hodges and Melodie Virtue
+- Point/Counterpoint: Network Neutrality Nuances [[link](http://cyberlaw.stanford.edu/files/publication/files/p31-van_schewick.pdf)]
+- What Everyone Gets Wrong in the Debate Over Net Neutrality [[link ](https://www.wired.com/2014/06/net-neutrality-missing/)]
+- Net Neutrality: How Recent Developments Could Affect Content Companies and Other IP-Intensive Businesses by Benjamin Hodges and Melodie Virtue [[link](https://www.ipwatchdog.com/2020/03/16/net-neutrality-how-recent-developments-could-affect-content-companies-and-other-ip-intensive-businesses/id=119822/)]
 
-_Optional_:
-- It's digital colonialism': how Facebook's free internet service has failed its users by Olivia Solon
-- Archive of articles on net neutrality by Ars Technica
-- Archive of articles on net neutrality by The Verge
+_Optional readings_:
+- It's digital colonialism': how Facebook's free internet service has failed its users by Olivia Solon [[link](https://www.theguardian.com/technology/2017/jul/27/facebook-free-basics-developing-markets)]
+- Archive of articles on net neutrality by Ars Technica [[link](https://arstechnica.com/tag/net-neutrality/)]
+- Archive of articles on net neutrality by The Verge [[link](https://www.theverge.com/net-neutrality)]
 
 #### Wednesday: Race in Computing
-- What's the difference between race and ethnicity? by Emma Bryce, Live Science
-- Does Technology Have Race? by David Hankerson et. al.
-- Crypto for the people (2:04 - 49:43)
-- Nextdoor has a racism problem, and here’s how it’s trying to fix it by AJ Dellinger
+- What's the difference between race and ethnicity? by Emma Bryce, Live Science [[link](https://www.livescience.com/difference-between-race-ethnicity.html)]
+- Does Technology Have Race? by David Hankerson et. al. [[link](https://faculty.utrgv.edu/zhixiang.chen/cs6174/papers/Strait_paper1.pdf)]
+- "Crypto for the people" Keynote talk by Seny Kamara at Crypto 2020  [[most of talk (2:04 - 49:43)](https://www.youtube.com/watch?v=Ygq9ci0GFhA)]
+- Nextdoor has a racism problem, and here’s how it’s trying to fix it, by AJ Dellinger [[link](https://www.dailydot.com/debug/nextdoor-racial-profiling-product/)]
 
 _Optional_:
-- New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys
+- New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys [[link](New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys)]
+
+# _Still tentative below this line_
 
 ## Week 12
 #### Monday:  Work and Wealth
