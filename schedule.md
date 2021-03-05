@@ -123,7 +123,8 @@ _Optional readings_
 - Understanding the General Data Protection Regulation: A primer for global publishers. [[link](https://www.cjr.org/tow_center_reports/understanding-general-data-protection-regulation.php/)]
 
 ## Week 9
-- Quinn Chapter 6.6: Surveillance / USA Patriot Act
+### Surveillance / USA Patriot Act
+- Quinn Chapter 6.6
 - Wikipedia articles to read: "Brandon Mayfield" [[link](http://en.wikipedia.org/wiki/Brandon_Mayfield)], "Summary of important points about the USA Patriot Act" [[link](https://www.cc.gatech.edu/~asb/teaching/4873/fall2020/patriot-to-know.html)] 
 - "Wikipedia and other articles to skim: The Foreign Intelligence Surveillance Act (FISA)" [[link](http://en.wikipedia.org/wiki/Foreign_Intelligence_Act)], "FISA Amendments Act" [[link](http://en.wikipedia.org/wiki/FISA_Amendments_Act_of_2008)], "The USA Patriot Act" [[link](http://en.wikipedia.org/wiki/USA_PATRIOT_Act)], "National Security Letters" [[link](https://en.wikipedia.org/wiki/National_security_letter)]
 - Don't Renew Section 215 Indefinitely, by EFF [[link](https://www.eff.org/deeplinks/2019/08/eff-says-no-trump-administrations-push-renew-section-215-indefinitely)]
