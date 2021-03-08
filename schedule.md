@@ -116,7 +116,7 @@ _Optional Readings (these have been used by other faculty in the past, some you 
 
 #### Wednesday: Privacy and the Government
 - Quinn Chapter 6 (except 6.6)
-- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [[pdf](http://www.guicolandia.net/files/expansao/Big%20data%20meets%20Big%20Brother%20as%20China%20moves%20to%20rate%20its%20citizens.pdf)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/big-data-meets-big-brother-as-china-moves-to-rate-its-citizens)]
+- Botsman, R. (2017). Big data meets Big Brother as China moves to rate its citizens. Wired UK, 21. [[wired](https://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion) [pdf](http://www.guicolandia.net/files/expansao/Big%20data%20meets%20Big%20Brother%20as%20China%20moves%20to%20rate%20its%20citizens.pdf)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/big-data-meets-big-brother-as-china-moves-to-rate-its-citizens)]
 - The NSA's Secret Role in the US Assassination Program, The Intercept [[link](https://theintercept.com/2014/02/10/the-nsas-secret-role/)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/the-nsa-s-secret-role-in-the-u-s-assassination-program)]
 
 _Optional readings_
