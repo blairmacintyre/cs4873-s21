@@ -1,7 +1,7 @@
 # Homework 5: The New ACM Code
 
 |---:|:---|
-|Due Date:|Wed March 31 at 5pm|
+|Due Date:|Wed Apr 7 at 5pm|
 |Format:|Approximately 1.5 to 2 pages, double spaced, 12 pt font|
 |Grading criteria:|Completeness<br>Writing<br>Insight into ethical issues|
 

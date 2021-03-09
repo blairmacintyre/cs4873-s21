@@ -10,7 +10,7 @@ There are three sorts of homework assignments: a series of written homeworks, we
 |[Term Paper Proposal](paper-proposal)|Mar 3|5%|
 |[HW4: Fair Use](hw4)|Mar 10|3%|
 |[Term paper Outline](paper-outline)|Mar 31|5%|
-|[HW5: New ACM Code](hw5)|Mar 31|3%|
+|[HW5: New ACM Code](hw5)|Apr 7|3%|
 
 ## Reading commentaries
 The goal of reading commentaries are twofold: to give you an opportunity to practice (i) thinking critically about readings; and, (ii) communicating your thoughts about how to apply what you've learned in this class. The goal is not to summarize the readings.
