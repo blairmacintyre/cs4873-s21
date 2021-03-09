@@ -1,7 +1,7 @@
 # Term Paper Outline
 
 |----:|:----|
-|Due Date:|March 24|
+|Due Date:|March 31|
 |Format|12 pt font, double spaced|
 |Grading Criteria|Completeness<br>Writing<br>Quality of research<br>Insight into the issues|
 

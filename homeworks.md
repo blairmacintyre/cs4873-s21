@@ -9,7 +9,7 @@ There are three sorts of homework assignments: a series of written homeworks, we
 |[HW3: Applying Ethical Frameworks to a Dilemma](hw3)|Feb 24|3%|
 |[Term Paper Proposal](paper-proposal)|Mar 3|5%|
 |[HW4: Fair Use](hw4)|Mar 10|3%|
-|[Term paper Outline](paper-outline)|Mar 24|5%|
+|[Term paper Outline](paper-outline)|Mar 31|5%|
 |[HW5: New ACM Code](hw5)|Mar 31|3%|
 
 ## Reading commentaries
