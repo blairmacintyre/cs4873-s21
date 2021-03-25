@@ -18,11 +18,11 @@ NOTE: **Topics to be covered and the corresponding readings are subject to chang
 |[Week 9](#week-9):<br>Mar 15|**(M)** Surveillance / USA Patriot Act<br>Slides ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/slides-16-surveillance) [pdf](slides/16-surveillance.pdf))<br>Video ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-march-15-surveillance-and-patriot-act))<br>Discussion Guide ([file](discussions/week9.docx))<br>**(W)** *Tuesday is break day, so we'll do only one lecture this week to reduce the workload. There will still be a discussion section.*||
 ||**Mar 17: withdrawal deadline**||
 |[Week 10](#week-10):<br>Mar 22|**(M)** Professional Ethics<br>Slides ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/slides-17-professional-ethics) [pdf](slides/17-professional-ethics.pdf))<br>Video ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-march-22-professional-ethics))<br>**(W)** *Wednesday is a break day, hits class and some discussion sections, so no Discussion Session this week*||
-|[Week 11](#week-11):<br>Mar 29|**(M)** Network Neutrality<br>**(W)** Race in Computing|[Term Paper Outline](paper-outline)|
+|[Week 11](#week-11):<br>Mar 29|**(M)**_no class_<br>**(W)** Network Neutrality|[Term Paper Outline](paper-outline)|
 |[Week 12](#week-12):<br>Apr 5|**(M)** Work and Wealth<br>**(W)** Technology and Pandemics|HW: [New ACM Code](hw5)|
 |[Week 13](#week-13):<br>Apr 12|**(M)** AI, Algorithms, and Bias<br>**(W)** Fake News and Deep Fakes||
-|[Week 14](#week-14):<br>Apr 19|**(M)** Electronic Voting<br>**(W)** _TBA_|[Term Paper Presentation in Session](term-paper#term-paper-presentation)|
-|[Last Week](#week-15):<br>Apr 26|**(M)** Envisioning the Singularities Ahead|[Term Paper Due](term-paper)|
+|[Week 14](#week-14):<br>Apr 19|**(M)** Race in Computing<br>**(W)** Electronic Voting|[Term Paper Presentation in Session](term-paper#term-paper-presentation)|
+|[Last Week](#week-15):<br>Apr 26|_no topic. Drop by and chat about the course_|[Term Paper Due](term-paper)|
 
 Here you will find the readings for each day. Optional readings are in italics.
 # Readings
@@ -153,7 +153,7 @@ _Optional readings:_
 - Anderson, R. E., Johnson, D. G., Gotterbarn, D., & Perrolle, J. (1993). Using the new ACM code of ethics in decision making. Communications of the ACM, 36(2), 98-107. [[pdf](https://dl.acm.org/doi/pdf/10.1145/151220.151231)] [[Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/using-the-new-acm-code-of-ethics-in-decision-making)]
 
 ## Week 11
-#### Monday:  Network Neutrality
+#### Wednesday:  Network Neutrality
 - Point/Counterpoint: Network Neutrality Nuances [[link](http://cyberlaw.stanford.edu/files/publication/files/p31-van_schewick.pdf)]
 - What Everyone Gets Wrong in the Debate Over Net Neutrality [[link ](https://www.wired.com/2014/06/net-neutrality-missing/)]
 - Net Neutrality: How Recent Developments Could Affect Content Companies and Other IP-Intensive Businesses by Benjamin Hodges and Melodie Virtue [[link](https://www.ipwatchdog.com/2020/03/16/net-neutrality-how-recent-developments-could-affect-content-companies-and-other-ip-intensive-businesses/id=119822/)]
@@ -163,27 +163,18 @@ _Optional readings_:
 - Archive of articles on net neutrality by Ars Technica [[link](https://arstechnica.com/tag/net-neutrality/)]
 - Archive of articles on net neutrality by The Verge [[link](https://www.theverge.com/net-neutrality)]
 
-#### Wednesday: Race in Computing
-- What's the difference between race and ethnicity? by Emma Bryce, Live Science [[link](https://www.livescience.com/difference-between-race-ethnicity.html)]
-- Does Technology Have Race? by David Hankerson et. al. [[link](https://faculty.utrgv.edu/zhixiang.chen/cs6174/papers/Strait_paper1.pdf)]
-- "Crypto for the people" Keynote talk by Seny Kamara at Crypto 2020  [[most of talk (2:04 - 49:43)](https://www.youtube.com/watch?v=Ygq9ci0GFhA)]
-- Nextdoor has a racism problem, and here’s how it’s trying to fix it, by AJ Dellinger [[link](https://www.dailydot.com/debug/nextdoor-racial-profiling-product/)]
-
-_Optional_:
-- New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys [[link](New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys)]
-
-# _Still tentative below this line_
-
 ## Week 12
 #### Monday:  Work and Wealth
-- Rotman, D. (2013). How technology is destroying jobs. Technology Review, 16(4), 28-35. [[pdf]()]
-- Five ways work will change in the future
+- Quinn Chapter 10
+- Five ways work will change in the future.  The Guardian. 2015. ([link](https://www.theguardian.com/society/2015/nov/29/five-ways-work-will-change-future-of-workplace-ai-cloud-retirement-remote))
 
 _Optional_
-- Imagine Discovering That Your Teaching Assistant Really Is a Robot, The Wall Street Journal [[link]()]
-- Goldhahn, J., Rampton, V., & Spinas, G. A. (2018). Could artificial intelligence make doctors obsolete?. Bmj, 363, k4563. [[pdf]()]
-- AI Will Change Radiology, but It Won’t Replace Radiologists, Harvard Business Review [[link]()]
-- The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [[link]()]
+- Rotman, D. (2013). How technology is destroying jobs. Technology Review, 16(4), 28-35. [[pdf](http://www.shellpoint.info/InquiringMinds/uploads/Archive/uploads/20130802_How_Technology_is_Destroying_Jobs.pdf)]
+- Planet Monday T-shirt Project. ([link](http://www.npr.org/series/248799434/planet-moneys-t-shirt-project))
+- Imagine Discovering That Your Teaching Assistant Really Is a Robot, The Wall Street Journal [[link](https://www.wsj.com/articles/if-your-teacher-sounds-like-a-robot-you-might-be-on-to-something-1462546621)]
+- Goldhahn, J., Rampton, V., & Spinas, G. A. (2018). Could artificial intelligence make doctors obsolete?. Bmj, 363, k4563. [[pdf](https://bullmed.ch/article/doi/saez.2019.17596/)]
+- AI Will Change Radiology, but It Won’t Replace Radiologists, Harvard Business Review [[link](https://hbr.org/2018/03/ai-will-change-radiology-but-it-wont-replace-radiologists)]
+- The Watch Is Smart, but It Can’t Replace Your Doctor, New York Times [[link](https://www.nytimes.com/2019/12/26/upshot/apple-watch-atrial-fibrillation.html)]
 
 #### Wednesday: Technology and Pandemics
 - Guariglia, M., and Schwartz, A. Protecting Civil Liberties During a Public Health Crisis, Electronic Frontier Foundation. [[link](https://www.eff.org/deeplinks/2020/03/protecting-civil-liberties-during-public-health-crisis)]
@@ -197,33 +188,37 @@ _Optional readings:_
 
 ## Week 13
 #### Monday: Algorithmic Bias and Fairness
-- The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity
-- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [[link]()]
-- Fairness: Types of Bias
+- The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity ([link](https://link.springer.com/article/10.1007/s11948-017-9975-2))
+- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [[link](https://www.washingtonpost.com/news/morning-mix/wp/2017/09/12/researchers-use-facial-recognition-tools-to-predict-sexuality-lgbt-groups-arent-happy/)]
+- Fairness: Types of Bias ([link](https://developers.google.com/machine-learning/crash-course/fairness/types-of-bias))
 
 _Optional_
-- Edelman, B., Luca, M., & Svirsky, D. (2017). Racial discrimination in the sharing economy: Evidence from a field experiment. American Economic Journal: Applied Economics, 9(2), 1-22. [[pdf]()]
-- Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). [[pdf]()]
-- When It Comes to Gorillas, Google Photos Remains Blind, Wired [[link]()]
-- Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination, Wired [[link
-- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246. [[pdf]()]
+- Edelman, B., Luca, M., & Svirsky, D. (2017). Racial discrimination in the sharing economy: Evidence from a field experiment. American Economic Journal: Applied Economics, 9(2), 1-22. [[pdf](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20160213)]
+- Kay, M., Matuszek, C., & Munson, S. A. (2015, April). Unequal representation and gender stereotypes in image search results for occupations. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3819-3828). [[pdf](https://dl.acm.org/doi/pdf/10.1145/2702123.2702520)]
+- When It Comes to Gorillas, Google Photos Remains Blind, Wired [[link](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/)]
+- Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination, Wired ([link](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/))
+- Wang, Y., & Kosinski, M. (2018). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of personality and social psychology, 114(2), 246. [[pdf](https://osf.io/hv28a/download/?format=pdf)]
 
 #### Wednesday: Fake News and Deep Fakes
-- The Agency (view in incognito mode to access)
-- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [[pdf]()]
+- The Agency. NY Times Magazine, 2015. ([link](https://www.nytimes.com/2015/06/07/magazine/the-agency.html))
+- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/download/15603/14812)]
 
 ## Week 14
 #### Monday: Electronic Voting, Democracy and Computing
-- EFF on Evoting
+- EFF on Evoting ([link](https://www.eff.org/issues/e-voting/))
 - Quinn 7.5, 8.2.1, 8.4.7
-- Voting Machines at Risk: Where We Stand Today
+- Voting Machines at Risk: Where We Stand Today ([link](https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-where-we-stand-today))
 
 _Optional_
-- Social bots distort the 2016 US Presidential election online discussion
+- Social bots distort the 2016 US Presidential election online discussion ([link](https://firstmonday.org/ojs/index.php/fm/article/view/7090/5653))
 
-#### Wednesday: TBA
+#### Wednesday: Race in Computing
+- What's the difference between race and ethnicity? by Emma Bryce, Live Science [[link](https://www.livescience.com/difference-between-race-ethnicity.html)]
+- Does Technology Have Race? by David Hankerson et. al. [[link](https://faculty.utrgv.edu/zhixiang.chen/cs6174/papers/Strait_paper1.pdf)]
+- "Crypto for the people" Keynote talk by Seny Kamara at Crypto 2020  [[most of talk (2:04 - 49:43)](https://www.youtube.com/watch?v=Ygq9ci0GFhA)]
+- Nextdoor has a racism problem, and here’s how it’s trying to fix it, by AJ Dellinger [[link](https://www.dailydot.com/debug/nextdoor-racial-profiling-product/)]
+
+_Optional_:
+- New York Times infographic: Extensive Data Shows Punishing Reach of Racism for Black Boys [[link](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html)]
 
 ## Week 15
-#### Monday: Envisioning the Singularities Ahead
-- Wolter Pieters. 2018. On Security Singularities. In Proceedings of the New Security Paradigms Workshop (NSPW '18). Association for Computing Machinery, New York, NY, USA, 80–88. DOI:https://doi.org/10.1145/3285002.3285008 [[pdf]()]
-- A. H. Eden et al. (eds.), Singularity Hypotheses, The Frontiers Collection, DOI: 10.1007/978-3-642-32560-1_1,  Springer-Verlag Berlin Heidelberg 2012 [[pdf]()]
