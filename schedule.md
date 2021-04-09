@@ -189,7 +189,7 @@ _Optional readings:_
 ## Week 13
 #### Monday: Algorithmic Bias and Fairness
 - The Ugly Truth About Ourselves and Our Robot Creations: The Problem of Bias and Social Inequity ([link](https://link.springer.com/article/10.1007/s11948-017-9975-2))
-- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [[link](https://www.washingtonpost.com/news/morning-mix/wp/2017/09/12/researchers-use-facial-recognition-tools-to-predict-sexuality-lgbt-groups-arent-happy/)]
+- Researchers use facial recognition tools to predict sexual orientation. LGBT groups aren’t happy, Washington Post [[link](https://www.washingtonpost.com/news/morning-mix/wp/2017/09/12/researchers-use-facial-recognition-tools-to-predict-sexuality-lgbt-groups-arent-happy/)].  Skim the article (it's long), also read the author's rebuttal to critiques ([link](https://docs.google.com/document/d/11oGZ1Ke3wK9E3BtOFfGfUQuuaSMR8AO2WfWH3aVke6U/edit#)) and a recent article discussing a similar ML system that includes references to this paper (Wired, "An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor" [link](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/))
 - Fairness: Types of Bias ([link](https://developers.google.com/machine-learning/crash-course/fairness/types-of-bias))
 
 _Optional_
