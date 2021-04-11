@@ -21,7 +21,7 @@ NOTE: **Topics to be covered and the corresponding readings are subject to chang
 |[Week 11](#week-11):<br>Mar 29|**(M) _no class_<br>**(W)** Network Neutrality<br>Slides ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/slides-18-net-neutrality) [pdf](slides/18-net-neutrality.pdf))<br>Video ([Perusall](hhttps://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-march-31-net-neutrality))<br>Discussion Guide ([file](discussions/week11.docx))|[Term Paper Outline](paper-outline)|
 |[Week 12](#week-12):<br>Apr 5|**(M)** Work and Wealth<br>Slides ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/slides-19-work-wealth) [pdf](slides/19-work-wealth.pdf))<br>Video ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-april-5-work-and-wealth))<br>**(W)** Technology and Pandemics<br>Slides ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/slides-20-pandemics) [pdf](slides/20-pandemics.pdf))<br>Video ([Perusall](https://app.perusall.com/courses/computing-society-and-professionalism/pre-recording-april-7-pandemics))<br>Discussion Guide ([file](https://teams.microsoft.com/l/file/A5CA59BA-7211-4A5E-B142-17E193D4F866?tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&fileType=docx&objectUrl=https%3A%2F%2Fgtvault.sharepoint.com%2Fsites%2FCS4873CSpring2021%2FClass%20Materials%2Fsection%20guides%2Fs12.%20Section%20Week%2012.docx&baseUrl=https%3A%2F%2Fgtvault.sharepoint.com%2Fsites%2FCS4873CSpring2021&serviceName=teams&threadId=19:e88417d2d71642768e287a8e824d1734@thread.tacv2&groupId=0f1dc904-c0c5-46ec-8161-72422838f412))|HW: [New ACM Code](hw5)|
 |[Week 13](#week-13):<br>Apr 12|**(M)** AI, Algorithms, and Bias<br>**(W)** Fake News and Deep Fakes||
-|[Week 14](#week-14):<br>Apr 19|**(M)** Race in Computing<br>**(W)** Electronic Voting|[Term Paper Presentation in Session](term-paper#term-paper-presentation)|
+|[Week 14](#week-14):<br>Apr 19|**(M)** Race in Computing<br>**(W)** _use the time to prepare your paper presentation_|[Term Paper Presentation in Session](term-paper#term-paper-presentation)|
 |[Last Week](#week-15):<br>Apr 26|_no topic. Drop by and chat about the course_|[Term Paper Due](term-paper)|
 
 Here you will find the readings for each day. Optional readings are in italics.
@@ -204,7 +204,7 @@ _Optional_
 - Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [[pdf](https://faculty.washington.edu/kstarbi/Alt_Narratives_ICWSM17-CameraReady.pdf)]
 
 ## Week 14
-#### Monday: Electronic Voting, Democracy and Computing
+#### Was Monday: Electronic Voting, Democracy and Computing
 - EFF on Evoting ([link](https://www.eff.org/issues/e-voting/))
 - Quinn 7.5, 8.2.1, 8.4.7
 - Voting Machines at Risk: Where We Stand Today ([link](https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-where-we-stand-today))
@@ -212,7 +212,7 @@ _Optional_
 _Optional_
 - Social bots distort the 2016 US Presidential election online discussion ([link](https://firstmonday.org/ojs/index.php/fm/article/view/7090/5653))
 
-#### Wednesday: Race in Computing
+#### Monday: Race in Computing
 - What's the difference between race and ethnicity? by Emma Bryce, Live Science [[link](https://www.livescience.com/difference-between-race-ethnicity.html)]
 - Does Technology Have Race? by David Hankerson et. al. [[link](https://faculty.utrgv.edu/zhixiang.chen/cs6174/papers/Strait_paper1.pdf)]
 - "Crypto for the people" Keynote talk by Seny Kamara at Crypto 2020  [[most of talk (2:04 - 49:43)](https://www.youtube.com/watch?v=Ygq9ci0GFhA)]
