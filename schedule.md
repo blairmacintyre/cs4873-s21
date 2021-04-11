@@ -201,7 +201,7 @@ _Optional_
 
 #### Wednesday: Fake News and Deep Fakes
 - The Agency. NY Times Magazine, 2015. ([link](https://www.nytimes.com/2015/06/07/magazine/the-agency.html))
-- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/download/15603/14812)]
+- Starbird, K. (2017). Examining the Alternative Media Ecosystem Through the Production of Alternative Narratives of Mass Shooting Events on Twitter. Proceedings of the International AAAI Conference on Web and Social Media, 11(1). Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/14878 [[pdf](https://faculty.washington.edu/kstarbi/Alt_Narratives_ICWSM17-CameraReady.pdf)]
 
 ## Week 14
 #### Monday: Electronic Voting, Democracy and Computing
